@@ -1,0 +1,7 @@
+botRequesting
+getTitle
+extractData
+modifyData
+replaceData
+splitData
+diffReduction
