@@ -9,7 +9,7 @@
   },
   {
     "title": "シカ色デイズ",
-    "description": "シカ部 [鹿乃子のこ (CV.潘めぐみ)、虎視虎子 (CV.藤田 咲)、虎視餡子 (CV.田辺留依)、馬車芽めめ (CV.和泉風花)]\n\n**Category:** POPS＆アニメ\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **7** (7.0) / **9+** (9.8) / **12+** (12.8)\n**BPM:** 183"
+    "description": "シカ部 [鹿乃子のこ (CV.潘めぐみ)、虎視虎子 (CV.藤田 咲)、虎視餡子 (CV.田辺留依)、馬車芽めめ (CV.和泉風花)]\n\n**Category:** POPS & ANIME\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **7** (7.0) / **9+** (9.8) / **12+** (12.8)\n**BPM:** 183"
   },
   {
     "title": "れっつ！みらくる☆はーどこあっ！",
@@ -33,7 +33,7 @@
   },
   {
     "title": "M@GICAL☆CURE! LOVE ♥ SHOT!",
-    "description": "SAWTOWNE\n\n**Category:** niconico＆ボーカロイド\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **4** (4.0) / **7+** (7.8) / **11** (11.2) / **13+** (13.7)\n**BPM:** 192"
+    "description": "SAWTOWNE\n\n**Category:** niconico & VOCALOID\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **4** (4.0) / **7+** (7.8) / **11** (11.2) / **13+** (13.7)\n**BPM:** 192"
   },
   {
     "title": "ガラテアの螺旋",
@@ -372,6 +372,18 @@
     "description": "Silentroom vs Frums\n\n**Category:** GAME & VARIETY\n**Version:** FESTiVAL\n**Difficulty:**\n**DX:** **5** (5.0) / **8** (8.5) / **12+** (12.8) / **14** (14.5)\n**BPM:** 234"
   },
   {
+    "title": "In Chaos",
+    "description": "Hiro「Crackin’DJ」\n\n**Category:** GAME & VARIETY\n**Version:** maimai\n**Difficulty:**\n**STD:** **6** (6.0) / **7+** (7.6) / **9+** (9.7) / **12** (12.5) / **14+** (14.8)\n**BPM:** 140"
+  },
+  {
+    "title": "The wheel to the right",
+    "description": "Sampling Masters MEGA\n\n**Category:** オンゲキCHUNITHM\n**Version:** MURASAKi\n**Difficulty:**\n**STD:** **7** (7.0) / **8+** (8.9) / **13** (13.3) / **14** (14.0)\n**BPM:** 200"
+  },
+  {
+    "title": "KING is BACK!!",
+    "description": "A-One\n\n**Category:** maimai\n**Version:** MURASAKi PLUS\n**Difficulty:**\n**STD:** **6** (6.0) / **8+** (8.8) / **11+** (11.9) / **13+** (13.9)\n**BPM:** 176"
+  },
+  {
     "title": "True Love Song",
     "description": "Kai/クラシック「G線上のアリア」\n\n**Category:** maimai\n**Version:** maimai\n**Difficulty:**\n**STD:** **5** (5.0) / **7** (7.2) / **10** (10.2) / **12** (12.4)\n**BPM:** 150"
   },
@@ -386,10 +398,6 @@
   {
     "title": "Love You",
     "description": "Q;indivi [cover]\n\n**Category:** POPS & ANIME\n**Version:** maimai\n**Difficulty:**\n**STD:** **6** (6.0) / **6** (6.8) / **9+** (9.6) / **11+** (11.7)\n**BPM:** 135"
-  },
-  {
-    "title": "In Chaos",
-    "description": "Hiro「Crackin’DJ」\n\n**Category:** GAME & VARIETY\n**Version:** maimai\n**Difficulty:**\n**STD:** **6** (6.0) / **7+** (7.6) / **9+** (9.7) / **12** (12.5) / **14+** (14.8)\n**BPM:** 140"
   },
   {
     "title": "Crush On You",
@@ -409,7 +417,7 @@
   },
   {
     "title": "ネコ日和。",
-    "description": "Kai/能登有沙\n\n**Category:** maimai\n**Version:** maimai\n**Difficulty:**\n**STD:** **6** (6.0) / **7+** (7.9) / **8+** (8.8) / **12+** (12.6)\n**BPM:** 171"
+    "description": "Kai/能登有沙\n\n**Category:** maimai\n**Version:** maimai\n**Difficulty:**\n**DX:** **2** (2.0) / **6** (6.5) / **9** (9.5) / **13+** (13.7)\n**STD:** **6** (6.0) / **7+** (7.9) / **8+** (8.8) / **12+** (12.6)\n**BPM:** 171"
   },
   {
     "title": "虹と太陽",
@@ -573,7 +581,7 @@
   },
   {
     "title": "ゴーゴー幽霊船",
-    "description": "米津玄師\n\n**Category:** niconico＆ボーカロイド\n**Version:** maimai PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **7** (7.0) / **10** (10.0) / **13** (13.0)\n**STD:** **5** (5.0) / **8** (8.2) / **11** (11.2) / **12+** (12.6)\n**BPM:** 180"
+    "description": "米津玄師\n\n**Category:** niconico & VOCALOID\n**Version:** maimai PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **7** (7.0) / **10** (10.0) / **13** (13.0)\n**STD:** **5** (5.0) / **8** (8.2) / **11** (11.2) / **12+** (12.6)\n**BPM:** 180"
   },
   {
     "title": "We Gonna Party",
@@ -1257,7 +1265,7 @@
   },
   {
     "title": "Dragoon",
-    "description": "Shandy kubota\n\n**Category:** maimai\n**Version:** ORANGE\n**Difficulty:**\n**STD:** **5** (5.0) / **8+** (8.6) / **10+** (10.9) / **13** (13.4) / **14** (14.5)\n**BPM:** 175"
+    "description": "Shandy kubota\n\n**Category:** maimai\n**Version:** ORANGE\n**Difficulty:**\n**DX:** **4** (4.0) / **8** (8.0) / **11** (11.0) / **13+** (13.7)\n**STD:** **5** (5.0) / **8+** (8.6) / **10+** (10.9) / **13** (13.4) / **14** (14.5)\n**BPM:** 175"
   },
   {
     "title": "不毛！",
@@ -1776,10 +1784,6 @@
     "description": "cosMo＠暴走P\n\n**Category:** maimai\n**Version:** MURASAKi\n**Difficulty:**\n**STD:** **6** (6.0) / **9** (9.3) / **13** (13.0) / **14** (14.5)\n**BPM:** 188"
   },
   {
-    "title": "The wheel to the right",
-    "description": "Sampling Masters MEGA\n\n**Category:** オンゲキCHUNITHM\n**Version:** MURASAKi\n**Difficulty:**\n**STD:** **7** (7.0) / **8+** (8.9) / **13** (13.3) / **14** (14.0)\n**BPM:** 200"
-  },
-  {
     "title": "四月の雨",
     "description": "cubesato\n\n**Category:** maimai\n**Version:** MURASAKi\n**Difficulty:**\n**STD:** **3** (3.0) / **8+** (8.6) / **12** (12.5) / **13+** (13.9)\n**BPM:** 79"
   },
@@ -1898,10 +1902,6 @@
   {
     "title": "曖昧mind",
     "description": "Halozy\n\n**Category:** maimai\n**Version:** MURASAKi PLUS\n**Difficulty:**\n**STD:** **5** (5.0) / **8+** (8.6) / **11+** (11.8) / **13** (13.4)\n**BPM:** 135"
-  },
-  {
-    "title": "KING is BACK!!",
-    "description": "A-One\n\n**Category:** maimai\n**Version:** MURASAKi PLUS\n**Difficulty:**\n**STD:** **6** (6.0) / **8+** (8.8) / **11+** (11.9) / **13+** (13.9)\n**BPM:** 176"
   },
   {
     "title": "Ultranova",
@@ -5273,47 +5273,47 @@
   },
   {
     "title": "Zitronectar",
-    "description": "Reku Mochizuki\n\n**Category:** オンゲキ＆CHUNITHM\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **5** (5.0) / **8+** (8.7) / **12** (12.0) / **14** (14.3)\n**BPM:** 222"
+    "description": "Reku Mochizuki\n\n**Category:** オンゲキCHUNITHM\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **5** (5.0) / **8+** (8.7) / **12** (12.0) / **14** (14.3)\n**BPM:** 222"
   },
   {
     "title": "きゅびずむ",
-    "description": "超てんちゃん\n\n**Category:** POPS＆アニメ\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **7** (7.0) / **10** (10.0) / **12+** (12.9)\n**BPM:** 185"
+    "description": "超てんちゃん\n\n**Category:** POPS & ANIME\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **7** (7.0) / **10** (10.0) / **12+** (12.9)\n**BPM:** 185"
   },
   {
     "title": "きゅびびびびずむ",
-    "description": "超てんちゃん\n\n**Category:** POPS＆アニメ\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **5** (5.0) / **8** (8.0) / **12** (12.0) / **13+** (13.8)\n**BPM:** 185"
+    "description": "超てんちゃん\n\n**Category:** POPS & ANIME\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **5** (5.0) / **8** (8.0) / **12** (12.0) / **13+** (13.8)\n**BPM:** 185"
   },
   {
     "title": "ゆりかご",
-    "description": "歌：可不／作詞・作曲：MIMI\n\n**Category:** niconico＆ボーカロイド\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **2** (2.0) / **6** (6.0) / **9** (9.0) / **13** (13.0)\n**BPM:** 120"
+    "description": "歌：可不／作詞・作曲：MIMI\n\n**Category:** niconico & VOCALOID\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **2** (2.0) / **6** (6.0) / **9** (9.0) / **13** (13.0)\n**BPM:** 120"
   },
   {
     "title": "月光",
-    "description": "歌：V.I.P／作詞・作曲：廉\n\n**Category:** niconico＆ボーカロイド\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **4** (4.0) / **8** (8.0) / **11** (11.2) / **13+** (13.7)\n**BPM:** 195"
+    "description": "歌：V.I.P／作詞・作曲：廉\n\n**Category:** niconico & VOCALOID\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **4** (4.0) / **8** (8.0) / **11** (11.2) / **13+** (13.7)\n**BPM:** 195"
   },
   {
     "title": "はいよろこんで",
-    "description": "こっちのけんと\n\n**Category:** POPS＆アニメ\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **6** (6.5) / **9+** (9.8) / **11+** (11.6) / **13** (13.2)\n**BPM:** 147"
+    "description": "こっちのけんと\n\n**Category:** POPS & ANIME\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **6** (6.5) / **9+** (9.8) / **11+** (11.6) / **13** (13.2)\n**BPM:** 147"
   },
   {
     "title": "ビビデバ",
-    "description": "星街すいせい（ホロライブ）\n\n**Category:** POPS＆アニメ\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **2** (2.0) / **6** (6.4) / **9+** (9.7) / **11+** (11.8) / **13** (13.2)\n**BPM:** 120"
+    "description": "星街すいせい（ホロライブ）\n\n**Category:** POPS & ANIME\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **2** (2.0) / **6** (6.4) / **9+** (9.7) / **11+** (11.8) / **13** (13.2)\n**BPM:** 120"
   },
   {
     "title": "シカ色デイズ",
-    "description": "シカ部 [鹿乃子のこ (CV.潘めぐみ)、虎視虎子 (CV.藤田 咲)、虎視餡子 (CV.田辺留依)、馬車芽めめ (CV.和泉風花)]\n\n**Category:** POPS＆アニメ\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **7** (7.0) / **9+** (9.8) / **12+** (12.8)\n**BPM:** 183"
+    "description": "シカ部 [鹿乃子のこ (CV.潘めぐみ)、虎視虎子 (CV.藤田 咲)、虎視餡子 (CV.田辺留依)、馬車芽めめ (CV.和泉風花)]\n\n**Category:** POPS & ANIME\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **7** (7.0) / **9+** (9.8) / **12+** (12.8)\n**BPM:** 183"
   },
   {
     "title": "メズマライザー",
-    "description": "サツキ feat.初音ミク・重音テト\n\n**Category:** niconico＆ボーカロイド\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **7** (7.2) / **10** (10.5) / **11+** (11.9) / **13+** (13.8)\n**BPM:** 185"
+    "description": "サツキ feat.初音ミク・重音テト\n\n**Category:** niconico & VOCALOID\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **7** (7.2) / **10** (10.5) / **11+** (11.9) / **13+** (13.8)\n**BPM:** 185"
   },
   {
     "title": "ももいろの鍵",
-    "description": "いよわ\n\n**Category:** niconico＆ボーカロイド\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **2** (2.0) / **6** (6.5) / **9** (9.0) / **12+** (12.7)\n**BPM:** 165"
+    "description": "いよわ\n\n**Category:** niconico & VOCALOID\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **2** (2.0) / **6** (6.5) / **9** (9.0) / **12+** (12.7)\n**BPM:** 165"
   },
   {
     "title": "のだ",
-    "description": "大漠波新\n\n**Category:** niconico＆ボーカロイド\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **6** (6.2) / **9+** (9.8) / **13** (13.3)\n**BPM:** 142"
+    "description": "大漠波新\n\n**Category:** niconico & VOCALOID\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **6** (6.2) / **9+** (9.8) / **13** (13.3)\n**BPM:** 142"
   },
   {
     "title": "Idoratrize World",
@@ -5321,7 +5321,7 @@
   },
   {
     "title": "Synthesis.",
-    "description": "tn-shi\n\n**Category:** ゲーム＆バラエティ\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **5** (5.0) / **8+** (8.8) / **12+** (12.6) / **14** (14.1)\n**BPM:** 180"
+    "description": "tn-shi\n\n**Category:** GAME & VARIETY\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **5** (5.0) / **8+** (8.8) / **12+** (12.6) / **14** (14.1)\n**BPM:** 180"
   },
   {
     "title": "Åntinomiε",
@@ -5329,11 +5329,19 @@
   },
   {
     "title": "もういいよ",
-    "description": "こっちのけんと\n\n**Category:** POPS＆アニメ\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **2** (2.0) / **6** (6.0) / **9+** (9.8) / **13** (13.1)\n**BPM:** 147"
+    "description": "こっちのけんと\n\n**Category:** POPS & ANIME\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **2** (2.0) / **6** (6.0) / **9+** (9.8) / **13** (13.1)\n**BPM:** 147"
   },
   {
     "title": "モエチャッカファイア",
-    "description": "弌誠「ゲーム『ゼンレスゾーンゼロ』エレン・ジョー 同人イメージソング」\n\n**Category:** POPS＆アニメ\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **6** (6.7) / **10** (10.5) / **13+** (13.8)\n**BPM:** 163"
+    "description": "弌誠「ゲーム『ゼンレスゾーンゼロ』エレン・ジョー 同人イメージソング」\n\n**Category:** POPS & ANIME\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **6** (6.7) / **10** (10.5) / **13+** (13.8)\n**BPM:** 163"
+  },
+  {
+    "title": "マヌルネコのうた",
+    "description": "小田朋美\n\n**Category:** POPS & ANIME\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **6** (6.0) / **9+** (9.8) / **13** (13.0)\n**BPM:** 137"
+  },
+  {
+    "title": "スナネコのうた",
+    "description": "ぷにぷに電機\n\n**Category:** POPS & ANIME\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **2** (2.0) / **6** (6.0) / **9+** (9.7) / **13** (13.4)\n**BPM:** 92"
   },
   {
     "title": "ATLAS RUSH",
@@ -5341,15 +5349,43 @@
   },
   {
     "title": "M@GICAL☆CURE! LOVE ♥ SHOT!",
-    "description": "SAWTOWNE\n\n**Category:** niconico＆ボーカロイド\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **4** (4.0) / **7+** (7.8) / **11** (11.2) / **13+** (13.7)\n**BPM:** 192"
+    "description": "SAWTOWNE\n\n**Category:** niconico & VOCALOID\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **4** (4.0) / **7+** (7.8) / **11** (11.2) / **13+** (13.7)\n**BPM:** 192"
   },
   {
     "title": "Overjoy ★ OVERDOSE!!",
-    "description": "Luna Fozer (BilliumMoto, 黒皇帝, Sobrem feat. vally.exe)\n\n**Category:** ゲーム＆バラエティ\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **4** (4.0) / **7+** (7.8) / **11** (11.0) / **14** (14.1)\n**BPM:** 143"
+    "description": "Luna Fozer (BilliumMoto, 黒皇帝, Sobrem feat. vally.exe)\n\n**Category:** GAME & VARIETY\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **4** (4.0) / **7+** (7.8) / **11** (11.0) / **14** (14.1)\n**BPM:** 143"
   },
   {
     "title": "DATAERR0R",
-    "description": "Cosmograph\n\n**Category:** ゲーム＆バラエティ\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **5** (5.0) / **8** (8.0) / **11+** (11.7) / **14** (14.0)\n**BPM:** 180"
+    "description": "Cosmograph\n\n**Category:** GAME & VARIETY\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **5** (5.0) / **8** (8.0) / **11+** (11.7) / **14** (14.0)\n**BPM:** 180"
+  },
+  {
+    "title": "あいたい星人",
+    "description": "DECO*27\n\n**Category:** niconico & VOCALOID\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **6** (6.2) / **9+** (9.7) / **13** (13.2)\n**BPM:** 150"
+  },
+  {
+    "title": "ハオ",
+    "description": "DECO*27\n\n**Category:** niconico & VOCALOID\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **7** (7.0) / **10** (10.0) / **13** (13.2)\n**BPM:** 176"
+  },
+  {
+    "title": "概して過誤",
+    "description": "isonosuke feat.知声\n\n**Category:** maimai\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **4** (4.0) / **7+** (7.8) / **10+** (10.8) / **13+** (13.7)\n**BPM:** 170"
+  },
+  {
+    "title": "Unfinished Epic",
+    "description": "SLAVE.V-V-R feat.Sor△\n\n**Category:** maimai\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **5** (5.0) / **8+** (8.7) / **11** (11.5) / **13+** (13.8)\n**BPM:** 185"
+  },
+  {
+    "title": "忙シー日",
+    "description": "原口沙輔, 式部めぐり\n\n**Category:** maimai\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **7+** (7.9) / **11+** (11.8) / **14** (14.2)\n**BPM:** 150"
+  },
+  {
+    "title": "好きな惣菜発表ドラゴン",
+    "description": "ンバヂ\n\n**Category:** niconico＆ボーカロイド\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **6** (6.5) / **9** (9.5) / **12** (12.5)\n**BPM:** 160"
+  },
+  {
+    "title": "FLΛME/FRΦST",
+    "description": "FANTAGIRAFF\n\n**Category:** maimai\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **5** (5.0) / **8** (8.0) / **12+** (12.9) / **14+** (14.8)\n**BPM:** 174"
   },
   {
     "title": "Help me, あーりん！",
@@ -5360,12 +5396,24 @@
     "description": "ビートまりお（COOL&CREATE）\n\n**Category:** 東方Project\n**Version:** FiNALE\n**Difficulty:**\n**STD:** **4** (4.0) / **7+** (7.8) / **11** (11.5) / **12** (12.1) / **13+** (13.7)\n**BPM:** 200"
   },
   {
+    "title": "クーネル・エンゲイザー",
+    "description": "電ǂ鯨\n\n**Category:** niconico & VOCALOID\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **7** (7.0) / **9+** (9.7) / **12+** (12.8)\n**BPM:** 170"
+  },
+  {
+    "title": "ゼロトーキング",
+    "description": "はるまきごはん\n\n**Category:** niconico & VOCALOID\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **2** (2.0) / **6** (6.0) / **9+** (9.8) / **13** (13.2)\n**BPM:** 133"
+  },
+  {
+    "title": "抜錨",
+    "description": "ナナホシ管弦楽団\n\n**Category:** niconico & VOCALOID\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **6** (6.7) / **10+** (10.7) / **13** (13.0)\n**BPM:** 140"
+  },
+  {
     "title": "恋愛裁判",
     "description": "40mP\n\n**Category:** niconico & VOCALOID\n**Version:** PiNK PLUS\n**Difficulty:**\n**STD:** **4** (4.0) / **7** (7.1) / **10** (10.0) / **11+** (11.8)\n**BPM:** 134"
   },
   {
     "title": "サウンドプレイヤー",
-    "description": "tilt-six feat.バル\n\n**Category:** オンゲキ＆CHUNITHM\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **7** (7.0) / **10** (10.0) / **13+** (13.7)\n**BPM:** 143"
+    "description": "tilt-six feat.バル\n\n**Category:** オンゲキCHUNITHM\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **7** (7.0) / **10** (10.0) / **13+** (13.7)\n**BPM:** 143"
   },
   {
     "title": "WORLD'S END UMBRELLA",
@@ -5377,15 +5425,15 @@
   },
   {
     "title": "crazy (about you)",
-    "description": "kamome sano\n\n**Category:** オンゲキ＆CHUNITHM\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **7** (7.0) / **10+** (10.8) / **13+** (13.8)\n**BPM:** 145"
+    "description": "kamome sano\n\n**Category:** オンゲキCHUNITHM\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **7** (7.0) / **10+** (10.8) / **13+** (13.8)\n**BPM:** 145"
   },
   {
     "title": "Drivessover",
-    "description": "Taishi\n\n**Category:** オンゲキ＆CHUNITHM\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **4** (4.0) / **7+** (7.8) / **12** (12.2) / **13+** (13.6)\n**BPM:** 182"
+    "description": "Taishi\n\n**Category:** オンゲキCHUNITHM\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **4** (4.0) / **7+** (7.8) / **12** (12.2) / **13+** (13.6)\n**BPM:** 182"
   },
   {
     "title": "Tidal Wave",
-    "description": "D-Cee\n\n**Category:** オンゲキ＆CHUNITHM\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **4** (4.0) / **7+** (7.6) / **12** (12.3) / **13+** (13.8)\n**BPM:** 175"
+    "description": "D-Cee\n\n**Category:** オンゲキCHUNITHM\n**Version:** PRiSM PLUS\n**Difficulty:**\n**DX:** **4** (4.0) / **7+** (7.6) / **12** (12.3) / **13+** (13.8)\n**BPM:** 175"
   },
   {
     "title": "渦状銀河のシンフォニエッタ",
@@ -5394,5 +5442,21 @@
   {
     "title": "チエルカ／エソテリカ",
     "description": "ツミキ × 宮下遊\n\n**Category:** maimai\n**Version:** Splash PLUS\n**Difficulty:**\n**DX:** **5** (5.0) / **8+** (8.7) / **12** (12.5) / **14** (14.3)\n**BPM:** 205"
+  },
+  {
+    "title": "Magical Flavor",
+    "description": "DECO*27 feat.Tia\n\n**Category:** maimai\n**Version:** MiLK\n**Difficulty:**\n**STD:** **3** (3.0) / **8** (8.3) / **10+** (10.6) / **13** (13.3)\n**BPM:** 98"
+  },
+  {
+    "title": "患部で止まってすぐ溶ける～狂気の優曇華院",
+    "description": "ARM＋夕野ヨシミ(IOSYS)feat. miko\n\n**Category:** 東方Project\n**Version:** GreeN PLUS\n**Difficulty:**\n**DX:** **3** (3.0) / **7+** (7.7) / **11** (11.0) / **13** (13.5)\n**STD:** **4** (4.0) / **8** (8.0) / **10+** (10.7) / **13+** (13.7) / **14** (14.0)\n**BPM:** 200"
+  },
+  {
+    "title": "劣等上等",
+    "description": "Giga / 鏡音リン・レン / Vivid BAD SQUAD「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」\n\n**Category:** niconico & VOCALOID\n**Version:** Splash\n**Difficulty:**\n**DX:** **4** (4.0) / **6** (6.5) / **10** (10.0) / **13** (13.2)\n**BPM:** 160"
+  },
+  {
+    "title": "アウターサイエンス",
+    "description": "じん\n\n**Category:** niconico & VOCALOID\n**Version:** MiLK\n**Difficulty:**\n**STD:** **5** (5.0) / **8** (8.0) / **12+** (12.7) / **13** (13.3)\n**BPM:** 195"
   }
 ]
