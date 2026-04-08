@@ -39,6 +39,11 @@ def main():
         std = extract_difficulties(desc, "STD")
         dx = extract_difficulties(desc, "DX")
         entry = {"title": title, "version": version}
+        
+        # Add alias if it exists
+        if item.get('alias'):
+            entry["alias"] = item['alias']
+            
         if std:
             entry["STD"] = std
         if dx:

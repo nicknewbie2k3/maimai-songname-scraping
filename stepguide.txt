@@ -4,7 +4,8 @@ step 3: botRequesting: query maimai xd bot dung file maimai-songName.json -> mai
 step 4: extractData: maimaiFullInfo.json -> maimaiExtractedInfo.json
 step 5: modifyData: maimaiExtractedInfo.json -> maimaiModifiedInfo.json
 step 6: replaceData: ModifiedInfo -> JsonFile
+addDataFromDifferentDB.py: dung de them image va chart name nhung bai con thieu vao JsonFile (abandoned because replaceImageURL exists)
+step 6: replaceData: ModifiedInfo -> JsonFile
 step 7: splitData: JsonFile -> Database
 step 8: diffReduction: Database -> OneTypeDatabase
-
-addDataFromDifferentDB.py: dung de them image va chart name nhung bai con thieu vao JsonFile (abandoned because replaceImageURL exists)
+step 9: replaceImageURL.py -> OneTypeDatabase_replaced

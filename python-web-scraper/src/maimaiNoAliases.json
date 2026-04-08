@@ -1,0 +1,3282 @@
+[
+  {
+    "title": "39",
+    "artist": "sasakure.UK x DECO*27",
+    "version": "maimai PLUS",
+    "catcode": "niconico＆VOCALOID™",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "L9",
+    "artist": "paraoka",
+    "version": "ORANGE PLUS",
+    "catcode": "GAME＆VARIETY",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "TRUST",
+    "artist": "小仏 凪(CV:佐倉 薫)",
+    "version": "19008",
+    "catcode": "オンゲキ＆CHUNITHM",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "　",
+    "artist": "x0o0x_",
+    "version": "22503",
+    "catcode": "POPS＆ANIME",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "残響散歌",
+    "artist": "Aimer",
+    "version": "FESTiVAL",
+    "catcode": "POPS＆ANIME",
+    "release": "250214",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "アマカミサマ",
+    "artist": "名取さな",
+    "version": "FESTiVAL",
+    "catcode": "POPS＆ANIME",
+    "release": "250214",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "[協]Love You",
+    "artist": "Q;indivi [cover]",
+    "version": "24000",
+    "catcode": "宴会場",
+    "release": "250214",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[蔵]In Chaos",
+    "artist": "Hiro「Crackin’DJ」",
+    "version": "24010",
+    "catcode": "宴会場",
+    "release": "240517",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[蛸]チルノのパーフェクトさんすう教室",
+    "artist": "ARM＋夕野ヨシミ(IOSYS)feat. miko",
+    "version": "24010",
+    "catcode": "宴会場",
+    "release": "240517",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[星]しゅわスパ大作戦☆",
+    "artist": "SOUND HOLIC feat. Nana Takahashi",
+    "version": "24010",
+    "catcode": "宴会場",
+    "release": "240517",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[宴]セガサターン起動音[H.][Remix]",
+    "artist": "Hiro",
+    "version": "24010",
+    "catcode": "宴会場",
+    "release": "240517",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[は]Garakuta Doll Play",
+    "artist": "t+pazolite",
+    "version": "24010",
+    "catcode": "宴会場",
+    "release": "240517",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[宴]CYCLES",
+    "artist": "Masayoshi Minoshima feat. 綾倉盟",
+    "version": "24010",
+    "catcode": "宴会場",
+    "release": "240517",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[狂]タカハせ！名人マン",
+    "artist": "ビートまりお + ARM feat. 高橋名人",
+    "version": "24010",
+    "catcode": "宴会場",
+    "release": "240517",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[宴]Oshama Scramble!",
+    "artist": "t+pazolite",
+    "version": "24003",
+    "catcode": "宴会場",
+    "release": "241005",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[蔵]Glorious Crown",
+    "artist": "xi",
+    "version": "24010",
+    "catcode": "宴会場",
+    "release": "240517",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[協]恋愛裁判",
+    "artist": "40mP",
+    "version": "24000",
+    "catcode": "宴会場",
+    "release": "241005",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[覚]東京リアルワールド",
+    "artist": "out of service",
+    "version": "24010",
+    "catcode": "宴会場",
+    "release": "240517",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[協]Hand in Hand",
+    "artist": "livetune",
+    "version": "24000",
+    "catcode": "宴会場",
+    "release": "241005",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[疑]DETARAME ROCK&ROLL THEORY",
+    "artist": "箱部 なる(CV:M・A・O)",
+    "version": "24010",
+    "catcode": "宴会場",
+    "release": "240517",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[協]疾走あんさんぶる",
+    "artist": "ビートまりお（COOL&CREATE）",
+    "version": "24000",
+    "catcode": "宴会場",
+    "release": "241005",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[宴]Oshama Scramble! (Cranky Remix)",
+    "artist": "Cranky",
+    "version": "24505",
+    "catcode": "宴会場",
+    "release": "240706",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[耐]Space Harrier Main Theme [Reborn]",
+    "artist": "佐野 信義「スペースハリアー」",
+    "version": "24015",
+    "catcode": "宴会場",
+    "release": "240624",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[甘]スイートマジック",
+    "artist": "ろん×Junky",
+    "version": "25500",
+    "catcode": "宴会場",
+    "release": "250724",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[J]Garakuta Doll Play",
+    "artist": "t+pazolite",
+    "version": "24500",
+    "catcode": "宴会場",
+    "release": "240625",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[回]ダブルラリアット",
+    "artist": "アゴアニキ",
+    "version": "25000",
+    "catcode": "宴会場",
+    "release": "250116",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[習]ウミユリ海底譚",
+    "artist": "n-buna",
+    "version": "25000",
+    "catcode": "宴会場",
+    "release": "250116",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[奏]洗脳",
+    "artist": "ゆりん・柿チョコ×Neru",
+    "version": "25000",
+    "catcode": "宴会場",
+    "release": "250116",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[奏]チュルリラ・チュルリラ・ダッダッダ！",
+    "artist": "和田たけあき(くらげP)",
+    "version": "24500",
+    "catcode": "宴会場",
+    "release": "240625",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[右]The wheel to the right",
+    "artist": "Sampling Masters MEGA",
+    "version": "24015",
+    "catcode": "宴会場",
+    "release": "240624",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[逆]KING is BACK!!",
+    "artist": "A-One",
+    "version": "24015",
+    "catcode": "宴会場",
+    "release": "240624",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[協]エイリアンエイリアン",
+    "artist": "ナユタン星人",
+    "version": "24500",
+    "catcode": "宴会場",
+    "release": "240625",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[疑]ロキ",
+    "artist": "みきとP",
+    "version": "24500",
+    "catcode": "宴会場",
+    "release": "240625",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[協]太陽系デスコ",
+    "artist": "ナユタン星人",
+    "version": "25000",
+    "catcode": "宴会場",
+    "release": "250116",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[回]ハム太郎とっとこうた",
+    "artist": "ハムちゃんず [covered by 光吉猛修]",
+    "version": "25500",
+    "catcode": "宴会場",
+    "release": "250214",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[奏]マイオドレ！舞舞タイム",
+    "artist": "キノシタ feat. そらみこ (ホロライブ ときのそら＆さくらみこ)",
+    "version": "25006",
+    "catcode": "宴会場",
+    "release": "250313",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[星]ほしぞらスペクタクル",
+    "artist": "奏音",
+    "version": "25013",
+    "catcode": "宴会場",
+    "release": "250619",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[奏]テレキャスタービーボーイ",
+    "artist": "すりぃ",
+    "version": "24500",
+    "catcode": "宴会場",
+    "release": "240625",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[協]ラグトレイン",
+    "artist": "稲葉曇",
+    "version": "24000",
+    "catcode": "宴会場",
+    "release": "241005",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[奏]アカツキアライヴァル",
+    "artist": "Last Note.",
+    "version": "24000",
+    "catcode": "宴会場",
+    "release": "241005",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[片]神々が恋した幻想郷",
+    "artist": "Unlucky Morpheus",
+    "version": "25013",
+    "catcode": "宴会場",
+    "release": "250619",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[奏]アンビバレンス",
+    "artist": "すりぃ×相沢",
+    "version": "25000",
+    "catcode": "宴会場",
+    "release": "250116",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[即]チューリングの跡",
+    "artist": "Frums",
+    "version": "25500",
+    "catcode": "宴会場",
+    "release": "250724",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[爆]Love's Theme of BADASS ～バッド・アス 愛のテーマ～",
+    "artist": "Hommarju",
+    "version": "25009",
+    "catcode": "宴会場",
+    "release": "250619",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[奏]ヒトガタ",
+    "artist": "HIMEHINA",
+    "version": "24511",
+    "catcode": "宴会場",
+    "release": "241120",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[協]三妖精SAY YA!!!",
+    "artist": "森羅万象",
+    "version": "24506",
+    "catcode": "宴会場",
+    "release": "240925",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[覚]スカーレット警察のゲットーパトロール24時",
+    "artist": "七条レタスグループ",
+    "version": "24506",
+    "catcode": "宴会場",
+    "release": "240925",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[回]回る空うさぎ",
+    "artist": "Orangestar",
+    "version": "24015",
+    "catcode": "宴会場",
+    "release": "240624",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[蛸]不機嫌なスリーカード",
+    "artist": "HIMEHINA",
+    "version": "25006",
+    "catcode": "宴会場",
+    "release": "250313",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[両]はんぶんこ",
+    "artist": "三枝明那",
+    "version": "24511",
+    "catcode": "宴会場",
+    "release": "241120",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[息]ノンブレス・オブリージュ",
+    "artist": "ピノキオピー",
+    "version": "24500",
+    "catcode": "宴会場",
+    "release": "240625",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[奏]さくゆいたいそう",
+    "artist": "さくゆい",
+    "version": "24505",
+    "catcode": "宴会場",
+    "release": "240706",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[匿]匿名M",
+    "artist": "ピノキオピー",
+    "version": "25500",
+    "catcode": "宴会場",
+    "release": "250724",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[嘘]ライアーダンサー",
+    "artist": "マサラダ",
+    "version": "25007",
+    "catcode": "宴会場",
+    "release": "250509",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[X]人マニア",
+    "artist": "原口沙輔 feat.重音テト",
+    "version": "25007",
+    "catcode": "宴会場",
+    "release": "250509",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[助]メズマライザー",
+    "artist": "サツキ feat.初音ミク・重音テト",
+    "version": "25500",
+    "catcode": "宴会場",
+    "release": "250724",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[r]Garakuta Doll Play",
+    "artist": "t+pazolite",
+    "version": "24500",
+    "catcode": "宴会場",
+    "release": "240625",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[玉]Garakuta Doll Play",
+    "artist": "t+pazolite",
+    "version": "24500",
+    "catcode": "宴会場",
+    "release": "240625",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[某]Garakuta Doll Play",
+    "artist": "t+pazolite",
+    "version": "24500",
+    "catcode": "宴会場",
+    "release": "240625",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "君の知らない物語",
+    "artist": "supercell「化物語」",
+    "version": "GreeN",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "Our Fighting",
+    "artist": "クーナ(CV 喜多村英梨)「PHANTASY STAR ONLINE 2」",
+    "version": "ORANGE PLUS",
+    "catcode": "ゲーム＆バラエティ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "1/3の純情な感情",
+    "artist": "SIAM SHADE [covered by 湯毛]",
+    "version": "ORANGE PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "毒占欲",
+    "artist": "DECO*27",
+    "version": "ORANGE",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "おじゃま虫",
+    "artist": "DECO*27",
+    "version": "ORANGE PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "はじめまして地球人さん",
+    "artist": "ピノキオピー",
+    "version": "ORANGE PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ヒビカセ",
+    "artist": "GigaReol",
+    "version": "MiLK PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ファッとして桃源郷",
+    "artist": "新庄かなえ(CV:三森すずこ)「てーきゅう」",
+    "version": "MURASAKi",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Paradisus-Paradoxum",
+    "artist": "MYTH & ROID「Re：ゼロから始める異世界生活」",
+    "version": "MURASAKi PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "名探偵連続殺人事件",
+    "artist": "てにをは",
+    "version": "MURASAKi PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "あ・え・い・う・え・お・あお!!",
+    "artist": "劇団ひととせ「ひなこのーと」",
+    "version": "MiLK",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "This game",
+    "artist": "鈴木このみ「ノーゲーム・ノーライフ」",
+    "version": "MiLK",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Los! Los! Los!",
+    "artist": "ターニャ・デグレチャフ(CV.悠木碧)「幼女戦記」",
+    "version": "MiLK",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ガヴリールドロップキック",
+    "artist": "ガヴリール（富田美憂），ヴィーネ（大西沙織），サターニャ（大空直美），ラフィエル（花澤香菜）「ガヴリールドロップアウト」",
+    "version": "MiLK",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "アンチクロックワイズ",
+    "artist": "After the Rain（そらる×まふまふ）",
+    "version": "MiLK PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "SHINY DAYS",
+    "artist": "亜咲花",
+    "version": "FiNALE",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "only my railgun",
+    "artist": "fripSide",
+    "version": "FiNALE",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "お気に召すまま",
+    "artist": "Eve",
+    "version": "FiNALE",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "徒花ネクロマンシー",
+    "artist": "フランシュシュ",
+    "version": "maimaiでらっくす",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "目覚めRETURNER",
+    "artist": "フランシュシュ",
+    "version": "maimaiでらっくす",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "青空のラプソディ",
+    "artist": "fhána",
+    "version": "maimaiでらっくす PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "ラブ・ドラマティック feat. 伊原六花",
+    "artist": "鈴木雅之",
+    "version": "maimaiでらっくす PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "異世界かるてっと",
+    "artist": "アインズ(日野聡)、カズマ(福島潤)、スバル(小林裕介)、ターニャ(悠木碧)",
+    "version": "maimaiでらっくす PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "いつかいい感じにアレしよう",
+    "artist": "カクとイムラ(CV：松本慶祐)",
+    "version": "maimaiでらっくす PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "オトモダチフィルム",
+    "artist": "オーイシマサヨシ",
+    "version": "maimaiでらっくす PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "六厘歌",
+    "artist": "六厘舎",
+    "version": "maimaiでらっくす PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "馬と鹿",
+    "artist": "米津玄師",
+    "version": "maimaiでらっくす PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "ノーポイッ!",
+    "artist": "Petit Rabbit's",
+    "version": "Splash",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "町かどタンジェント",
+    "artist": "shami momo（吉田優子・千代田桃）／CV：小原好美・鬼頭明里",
+    "version": "Splash",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "紅蓮華",
+    "artist": "LiSA",
+    "version": "Splash",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "MIRACLE RUSH",
+    "artist": "StylipS",
+    "version": "Splash",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "Pretender",
+    "artist": "Official髭男dism",
+    "version": "Splash",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "インフェルノ",
+    "artist": "Mrs. GREEN APPLE",
+    "version": "Splash PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "冬のこもりうた",
+    "artist": "原田知世",
+    "version": "Splash PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "God knows...",
+    "artist": "涼宮ハルヒ（CV.平野 綾） TVアニメ「涼宮ハルヒの憂鬱」",
+    "version": "Splash PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "秒針を噛む",
+    "artist": "ずっと真夜中でいいのに。",
+    "version": "Splash PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "乙女のルートはひとつじゃない！",
+    "artist": "angela",
+    "version": "Splash PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "ビックカメラのテーマソング",
+    "artist": "ビックカメラ",
+    "version": "Splash PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "Shiny Smily Story",
+    "artist": "hololive IDOL PROJECT",
+    "version": "Splash PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "夜に駆ける",
+    "artist": "YOASOBI",
+    "version": "UNiVERSE",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "うっせぇわ",
+    "artist": "Ado",
+    "version": "UNiVERSE",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "Shooting Stars",
+    "artist": "クレシェンドブルー [最上静香 (CV.田所あずさ)、北上麗花 (CV.平山笑美)、北沢志保 (CV.雨宮 天)、野々原 茜 (CV.小笠原早紀)、箱崎星梨花 (CV.麻倉もも)]",
+    "version": "UNiVERSE",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "MOON NIGHTのせいにして",
+    "artist": "DRAMATIC STARS [天道 輝 (CV.仲村宗悟), 桜庭 薫 (CV.内田雄馬), 柏木 翼 (CV.八代 拓)]",
+    "version": "UNiVERSE",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "泥の分際で私だけの大切を奪おうだなんて",
+    "artist": "ツユ",
+    "version": "UNiVERSE",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "VOLTAGE",
+    "artist": "Rain Drops",
+    "version": "UNiVERSE",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "Seize The Day",
+    "artist": "亜咲花",
+    "version": "UNiVERSE",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "veil",
+    "artist": "須田景凪",
+    "version": "UNiVERSE",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "さんさーら！",
+    "artist": "ARuFa",
+    "version": "UNiVERSE",
+    "catcode": "ゲーム＆バラエティ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "テリトリーバトル",
+    "artist": "ツユ",
+    "version": "UNiVERSE PLUS",
+    "catcode": "オンゲキ＆CHUNITHM",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "愛のシュプリーム！",
+    "artist": "fhána",
+    "version": "UNiVERSE PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "くらべられっ子",
+    "artist": "ツユ",
+    "version": "UNiVERSE PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "あの世行きのバスに乗ってさらば。",
+    "artist": "ツユ",
+    "version": "UNiVERSE PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "うまぴょい伝説",
+    "artist": "スペシャルウィーク （CV.和氣あず未）、サイレンススズカ （CV.高野麻里佳）、トウカイテイオー （CV.Machico）",
+    "version": "UNiVERSE PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "YONA YONA DANCE",
+    "artist": "和田アキ子",
+    "version": "UNiVERSE PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "Photon Melodies",
+    "artist": "Photon Maiden",
+    "version": "UNiVERSE PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "吾輩よ猫であれ",
+    "artist": "Lyrical Lily",
+    "version": "UNiVERSE PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "PON PON PON",
+    "artist": "きゃりーぱみゅぱみゅ［PV］",
+    "version": "maimai",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Choo Choo TRAIN",
+    "artist": "EXILE［PV］",
+    "version": "GreeN",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "VICTORY",
+    "artist": "EXILE",
+    "version": "GreeN PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ヘビーローテーション",
+    "artist": "AKB48［PV］",
+    "version": "maimai",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Everyday、カチューシャ",
+    "artist": "AKB48［PV］",
+    "version": "maimai",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Chu Chu",
+    "artist": "moumoon［PV］",
+    "version": "maimai",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "New World",
+    "artist": "w-inds.［PV］",
+    "version": "maimai",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "CAN'T GET BACK",
+    "artist": "w-inds.［PV］",
+    "version": "maimai",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "愛を止めないで",
+    "artist": "倖田來未［PV］",
+    "version": "maimai",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "LOVE ＆ JOY",
+    "artist": "木村 由姫［cover］",
+    "version": "maimai",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "じょいふる",
+    "artist": "いきものがかり［cover］",
+    "version": "maimai",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "アイデンティティ",
+    "artist": "サカナクション［cover］",
+    "version": "maimai",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Garden",
+    "artist": "May J.［cover］",
+    "version": "maimai",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "つけまつける",
+    "artist": "きゃりーぱみゅぱみゅ［PV］",
+    "version": "maimai PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "CANDY CANDY",
+    "artist": "きゃりーぱみゅぱみゅ［PV］",
+    "version": "maimai PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "SPELL MAGIC",
+    "artist": "Acid Black Cherry［PV］",
+    "version": "maimai PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ニブンノイチ",
+    "artist": "BACK-ON［cover］",
+    "version": "ORANGE PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "サラバ、愛しき悲しみたちよ",
+    "artist": "ももいろクローバーZ［PV］",
+    "version": "GreeN",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "女々しくて",
+    "artist": "ゴールデンボンバー［PV］",
+    "version": "GreeN",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "LOVEドッきゅん♥",
+    "artist": "club prince［cover］",
+    "version": "GreeN",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "GO!!!",
+    "artist": "FLOW「NARUTO」［cover］",
+    "version": "GreeN",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "カルマ",
+    "artist": "BUMP OF CHICKEN［cover］",
+    "version": "GreeN",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "リライト",
+    "artist": "ASIAN KANG-FU GENERATION［cover］",
+    "version": "GreeN",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "READY STEADY GO",
+    "artist": "L'Arc~en~Ciel［cover］",
+    "version": "GreeN",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Butter-Fly",
+    "artist": "和田光司［cover］",
+    "version": "GreeN",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "創聖のアクエリオン",
+    "artist": "AKINO［cover］",
+    "version": "GreeN",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "残酷な天使のテーゼ",
+    "artist": "高橋洋子［cover］",
+    "version": "GreeN",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "galaxias!",
+    "artist": "galaxias!［PV］",
+    "version": "GreeN",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Tachyon",
+    "artist": "mamenoi (MANYO＆やなぎなぎ)",
+    "version": "GreeN PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "リクライム",
+    "artist": "ROOKiEZ is PUNK’D 「弱虫ペダル」[アニメPV]",
+    "version": "GreeN PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "恋のヒメヒメぺったんこ",
+    "artist": "姫野湖鳥（CV 田村ゆかり）「弱虫ペダル」",
+    "version": "GreeN PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "サブリナ",
+    "artist": "家入レオ［PV］",
+    "version": "maimai PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "RPG",
+    "artist": "SEKAI NO OWARI",
+    "version": "GreeN PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "GO MY WAY!!",
+    "artist": "ナムコエンジェル「アイドルマスター」",
+    "version": "GreeN PLUS",
+    "catcode": "ゲーム＆バラエティ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "THE IDOLM@STER 2nd-mix",
+    "artist": "ナムコエンジェル「アイドルマスター」",
+    "version": "GreeN PLUS",
+    "catcode": "ゲーム＆バラエティ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "The world is all one !!",
+    "artist": "ナムコエンジェル「アイドルマスター」",
+    "version": "GreeN PLUS",
+    "catcode": "ゲーム＆バラエティ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Get Off of My Way",
+    "artist": "MAN WITH A MISSION［PV］",
+    "version": "maimai PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "おいでよ！妖精の森",
+    "artist": "「gdgd妖精s」",
+    "version": "ORANGE",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "みかんのうた",
+    "artist": "SEX MACHINEGUNS［cover］",
+    "version": "ORANGE",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ファミリーパーティー",
+    "artist": "きゃりーぱみゅぱみゅ［PV］",
+    "version": "ORANGE",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "恋愛サーキュレーション",
+    "artist": "「化物語」［cover］",
+    "version": "maimai",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Can Do",
+    "artist": "GRANRODEO[PV]",
+    "version": "ORANGE PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "The Other self",
+    "artist": "GRANRODEO[PV]",
+    "version": "ORANGE PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "カノン",
+    "artist": "宮野真守[PV]",
+    "version": "ORANGE PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "オルフェ",
+    "artist": "宮野真守[PV]",
+    "version": "ORANGE PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ヘタリアン☆ジェット",
+    "artist": "イタリア (CV.浪川大輔)「ヘタリア The World Twinkle」",
+    "version": "PiNK PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ココロオドル",
+    "artist": "nobodyknows+［cover］",
+    "version": "ORANGE PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "naraku within",
+    "artist": "藤澤健至（Team-MAX）「ニンジャスレイヤー」",
+    "version": "ORANGE",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ほとんど違法行為",
+    "artist": "ネコネコカワイイ「ニンジャスレイヤー」",
+    "version": "ORANGE",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "シリウス",
+    "artist": "藍井エイル「キルラキル」[アニメPV]",
+    "version": "ORANGE PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "青春はNon-Stop！",
+    "artist": "プラズマジカ「SHOW BY ROCK!!」",
+    "version": "PiNK",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Falling Roses",
+    "artist": "シンガンクリムゾンズ「SHOW BY ROCK!!」",
+    "version": "PiNK",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ようかい体操第一",
+    "artist": "Dream5「妖怪ウォッチ」",
+    "version": "PiNK PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ゲラゲラポーのうた",
+    "artist": "キング・クリームソーダ「妖怪ウォッチ」",
+    "version": "PiNK",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Scatman (Ski Ba Bop Ba Dop Bop)",
+    "artist": "Scatman John",
+    "version": "PiNK PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "でんでんぱっしょん",
+    "artist": "でんぱ組.inc",
+    "version": "PiNK",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Dragon Night",
+    "artist": "SEKAI NO OWARI",
+    "version": "PiNK",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Luminize",
+    "artist": "fripSide「フューチャーカード バディファイト ハンドレッド」",
+    "version": "PiNK",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "秘密の扉から会いにきて",
+    "artist": "田村ゆかり「のうりん」",
+    "version": "PiNK",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Touch Tap Baby",
+    "artist": "ハッカドール",
+    "version": "PiNK",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "イチズレシピ",
+    "artist": "アイドルカレッジ「俺がお嬢様学校に「庶民サンプル」としてゲッツされた件」",
+    "version": "PiNK PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ふ・れ・ん・ど・し・た・い",
+    "artist": "学園生活部「がっこうぐらし！」",
+    "version": "PiNK PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "未来(ソラ)の歌",
+    "artist": "Questy「ポッピンQ」",
+    "version": "MURASAKi PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ひみつをちょーだい",
+    "artist": "アルスマグナ",
+    "version": "PiNK",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "夏にキスしていいですか？",
+    "artist": "アルスマグナ",
+    "version": "PiNK PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "PERFECT HUMAN",
+    "artist": "RADIO FISH",
+    "version": "MURASAKi",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "SUSHI食べたい feat.ソイソース",
+    "artist": "ORANGE RANGE",
+    "version": "MURASAKi",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "7 Girls War",
+    "artist": "Wake Up, Girls！",
+    "version": "MURASAKi",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Jumping!!",
+    "artist": "Rhodanthe*",
+    "version": "MURASAKi",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ゆりゆららららゆるゆり大事件",
+    "artist": "七森中☆ごらく部「ゆるゆり」",
+    "version": "MURASAKi",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "いぇす！ゆゆゆ☆ゆるゆり♪♪",
+    "artist": "七森中☆ごらく部「ゆるゆり♪♪」",
+    "version": "MURASAKi",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ちょちょちょ！ゆるゆり☆かぷりっちょ！！！",
+    "artist": "七森中☆ごらく部「ゆるゆり さん☆ハイ！」",
+    "version": "MURASAKi",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "H-A-J-I-M-A-R-I-U-T-A-!!",
+    "artist": "777☆SISTERS",
+    "version": "MURASAKi",
+    "catcode": "ゲーム＆バラエティ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Star☆Glitter",
+    "artist": "セブンスシスターズ",
+    "version": "MURASAKi",
+    "catcode": "ゲーム＆バラエティ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "紅蓮の弓矢",
+    "artist": "Linked Horizon 「進撃の巨人」[アニメPV]",
+    "version": "GreeN PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "SAKURAスキップ",
+    "artist": "fourfolium 「NEW GAME!」",
+    "version": "MURASAKi PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Now Loading!!!!",
+    "artist": "fourfolium 「NEW GAME!」",
+    "version": "MURASAKi PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ホシトハナ",
+    "artist": "讃州中学勇者部 「結城友奈は勇者である」",
+    "version": "MURASAKi PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Stand Up!!!!",
+    "artist": "鈴木結愛(CV:西 明日香)/佐藤陽菜(CV:明坂聡美)/高橋 葵(CV:荻野可鈴)/田中心春(CV:大橋彩香)/「てさぐれ！部活もの」 [アニメPV]",
+    "version": "ORANGE",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ヤバい○○",
+    "artist": "上坂すみれ",
+    "version": "MiLK",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Pursuing My True Self",
+    "artist": "目黒 將司",
+    "version": "ORANGE PLUS",
+    "catcode": "ゲーム＆バラエティ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Signs Of Love (“Never More” ver.)",
+    "artist": "目黒 将司",
+    "version": "ORANGE PLUS",
+    "catcode": "ゲーム＆バラエティ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "specialist (“Never More” ver.)",
+    "artist": "目黒 將司",
+    "version": "ORANGE PLUS",
+    "catcode": "ゲーム＆バラエティ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Time To Make History (AKIRA YAMAOKA Remix)",
+    "artist": "目黒 將司 Remixed by 山岡 晃",
+    "version": "ORANGE PLUS",
+    "catcode": "ゲーム＆バラエティ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "CALL HEAVEN!!",
+    "artist": "夢色キャスト",
+    "version": "MURASAKi PLUS",
+    "catcode": "ゲーム＆バラエティ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Sunshine world tour",
+    "artist": "夢色キャスト",
+    "version": "MURASAKi PLUS",
+    "catcode": "ゲーム＆バラエティ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "POP TEAM EPIC",
+    "artist": "上坂すみれ「ポプテピピック」",
+    "version": "MiLK PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "全力☆Summer!",
+    "artist": "angela「アホガール」",
+    "version": "MiLK PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Arrival of Tears",
+    "artist": "彩音",
+    "version": "MiLK PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "にめんせい☆ウラオモテライフ！",
+    "artist": "土間うまる（田中あいみ）「乾物妹！うまるちゃんR」",
+    "version": "MiLK PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "うまるん体操",
+    "artist": "妹Ｓ「乾物妹！うまるちゃんR」",
+    "version": "MiLK PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "夏祭り",
+    "artist": "Jitterin' Jinn [covered by ろん]",
+    "version": "PiNK PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "SAVIOR OF SONG",
+    "artist": "ナノ feat.MY FIRST STORY",
+    "version": "ORANGE PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "かくしん的☆めたまるふぉ～ぜっ！",
+    "artist": "土間うまる [CV.田中あいみ]「乾物妹！うまるちゃん」",
+    "version": "PiNK",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "Deep in Abyss",
+    "artist": "リコ（CV：富田美憂）、レグ（CV：伊瀬茉莉也）",
+    "version": "FiNALE",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "NOISY LOVE POWER☆",
+    "artist": "大橋彩香",
+    "version": "FiNALE",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "極上スマイル",
+    "artist": "Wake Up, Girls！",
+    "version": "PiNK",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "甲賀忍法帖",
+    "artist": "陰陽座",
+    "version": "MiLK PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Ievan Polkka",
+    "artist": "Otomania feat. 初音ミク",
+    "version": "MiLK PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "LOSER",
+    "artist": "米津玄師",
+    "version": "maimaiでらっくす",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "U.S.A.",
+    "artist": "DA PUMP",
+    "version": "maimaiでらっくす",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "新宝島",
+    "artist": "サカナクション",
+    "version": "maimaiでらっくす",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "未完成人",
+    "artist": "ンダホ&ぺけたん from Fischer's",
+    "version": "maimaiでらっくす",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "シュガーソングとビターステップ",
+    "artist": "UNISON SQUARE GARDEN",
+    "version": "PiNK PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "Daydream café",
+    "artist": "Petit Rabbit's「ご注文はうさぎですか？」",
+    "version": "PiNK PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "コネクト",
+    "artist": "ClariS「魔法少女まどか☆マギカ」",
+    "version": "maimai",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "The Gong of Knockout",
+    "artist": "Fear, and Loathing in Las Vegas",
+    "version": "maimaiでらっくす",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "Clattanoia",
+    "artist": "OxT",
+    "version": "maimaiでらっくす",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "UNION",
+    "artist": "OxT",
+    "version": "maimaiでらっくす",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "東奔西走行進曲",
+    "artist": "BLACK STARS（ブラック指令・ペガッサ星人・シルバーブルーメ・ノーバ）",
+    "version": "maimaiでらっくす",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "Soul-ride ON!",
+    "artist": "アギラ・キングジョー・ガッツ星人（CV：飯田裡穂・三森すずこ・松田利冴）",
+    "version": "maimaiでらっくす",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "乗ってけ！ジャパリビート",
+    "artist": "どうぶつビスケッツ×PPP「けものフレンズ２」",
+    "version": "maimaiでらっくす",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "フレ！フレ！ベストフレンズ",
+    "artist": "どうぶつビスケッツ×PPP「けものフレンズ」",
+    "version": "maimaiでらっくす",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "POPPY PAPPY DAY",
+    "artist": "ポプ子(CV:五十嵐裕美)＆ピピ美(CV:松嵜麗)",
+    "version": "maimaiでらっくす",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "アウトサイダー",
+    "artist": "Eve",
+    "version": "maimaiでらっくす",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "絵の上手かった友達",
+    "artist": "ピノキオピー",
+    "version": "PiNK",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ワンダーラスト",
+    "artist": "sasakure.UK",
+    "version": "FiNALE",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Mr. Wonderland",
+    "artist": "sasakure.UK",
+    "version": "PiNK PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ジャガーノート",
+    "artist": "夏代孝明 feat. 初音ミク",
+    "version": "maimaiでらっくす",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "アリサのテーマ",
+    "artist": "池頼広",
+    "version": "FiNALE",
+    "catcode": "ゲーム＆バラエティ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Touch Tap Baby",
+    "artist": "ハッカドール",
+    "version": "MURASAKi PLUS",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ココロ",
+    "artist": "トラボルタ",
+    "version": "MiLK PLUS",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Oshama Scramble! (Cranky Remix)",
+    "artist": "Cranky",
+    "version": "FiNALE",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Ievan Polkka",
+    "artist": "Otomania feat.初音ミク",
+    "version": "FiNALE",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "怒槌～光吉猛修一部謎～",
+    "artist": "光吉猛修",
+    "version": "FiNALE",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Wonderland Wars オープニング (EASY)",
+    "artist": "「童話」は、全て「戦記」だった",
+    "version": "FiNALE",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Wonderland Wars オープニング (BASIC)",
+    "artist": "「童話」は、全て「戦記」だった",
+    "version": "FiNALE",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Wonderland Wars オープニング (ADVANCED)",
+    "artist": "「童話」は、全て「戦記」だった",
+    "version": "FiNALE",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Wonderland Wars オープニング (EXPERT)",
+    "artist": "「童話」は、全て「戦記」だった",
+    "version": "FiNALE",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Wonderland Wars オープニング (MASTER)",
+    "artist": "「童話」は、全て「戦記」だった",
+    "version": "FiNALE",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Wonderland Wars オープニング (Re:MASTER)",
+    "artist": "「童話」は、全て「戦記」だった",
+    "version": "FiNALE",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "全世界共通リズム感テスト (初級)",
+    "artist": "☆リズムに合わせてボタンを叩き達成率を競うゲームです☆",
+    "version": "FiNALE",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "全世界共通リズム感テスト (上級)",
+    "artist": "☆リズムに合わせてボタンを叩き達成率を競うゲームです☆",
+    "version": "FiNALE",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "犬日和。(はっぴー歌唱Ver)",
+    "artist": "こうのさんとはっぴーちゃん/Hiroの犯行",
+    "version": "FiNALE",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Garakuta Doll Play (1)",
+    "artist": "t+pazolite",
+    "version": "MiLK PLUS",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Garakuta Doll Play (2)",
+    "artist": "t+pazolite",
+    "version": "MiLK",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Garakuta Doll Play (3)",
+    "artist": "t+pazolite",
+    "version": "MiLK",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Garakuta Doll Play (4)",
+    "artist": "t+pazolite",
+    "version": "MiLK",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Garakuta Doll Play (5)",
+    "artist": "t+pazolite",
+    "version": "MiLK",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "オントロジー",
+    "artist": "Rain Drops",
+    "version": "UNiVERSE PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "剣を抜け！GCCX MAX",
+    "artist": "メッセメッセクラブ",
+    "version": "UNiVERSE PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "アノーイング！さんさんウィーク！",
+    "artist": "五十嵐双葉（ＣＶ：楠木ともり）、桜井桃子（ＣＶ：早見沙織）、黒部夏美（ＣＶ：青山玲菜）、月城モナ（ＣＶ：古賀葵）",
+    "version": "FESTiVAL",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "アンダーキッズ",
+    "artist": "ツユ",
+    "version": "BUDDiES",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "[協]ぽっぴっぽー",
+    "artist": "",
+    "version": "BUDDiES",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[協]ポップミュージックは僕のもの",
+    "artist": "ONIGAWARA",
+    "version": "BUDDiES",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[光]BREaK! BREaK! BREaK!",
+    "artist": "HiTECH NINJA vs Cranky",
+    "version": "BUDDiES",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[蔵]Aegleseeker",
+    "artist": "Silentroom vs Frums",
+    "version": "BUDDiES",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "千本桜",
+    "artist": "黒うさP",
+    "version": "maimai PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "アゲアゲアゲイン",
+    "artist": "Mitchie M",
+    "version": "GreeN PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "SPiCa",
+    "artist": "とくP",
+    "version": "GreeN PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "二息歩行",
+    "artist": "DECO*27",
+    "version": "GreeN PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "むかしむかしのきょうのぼく",
+    "artist": "DECO*27",
+    "version": "GreeN PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "クローバー♣クラブ",
+    "artist": "ゆうゆ",
+    "version": "ORANGE PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "妄想税",
+    "artist": "DECO*27",
+    "version": "ORANGE PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "どういうことなの！？",
+    "artist": "くちばしP",
+    "version": "ORANGE PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Sweet Devil",
+    "artist": "八王子P",
+    "version": "ORANGE PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "すろぉもぉしょん",
+    "artist": "ピノキオピー",
+    "version": "PiNK",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "LOL -lots of laugh-",
+    "artist": "KeN/エンドケイプ",
+    "version": "PiNK",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "しんでしまうとはなさけない！",
+    "artist": "ワンダフル☆オポチュニティ！",
+    "version": "PiNK PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "クノイチでも恋がしたい",
+    "artist": "みきとP",
+    "version": "PiNK PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "回レ！雪月花",
+    "artist": "歌組雪月花 夜々(原田ひとみ)/いろり(茅野愛衣)/小紫(小倉唯)「機巧少女は傷つかない」",
+    "version": "MURASAKi",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "ゆっくりしていってね！！！",
+    "artist": "今日犬",
+    "version": "MURASAKi",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ココロ",
+    "artist": "トラボルタ",
+    "version": "MURASAKi",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "炉心融解",
+    "artist": "iroha(sasaki)／kuma(alfred)",
+    "version": "MURASAKi",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Just Be Friends",
+    "artist": "Dixie Flatline",
+    "version": "MURASAKi",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "東京レトロ",
+    "artist": "すこっぷ",
+    "version": "MURASAKi PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ちがう!!!",
+    "artist": "カルロス袴田(サイゼP)",
+    "version": "MURASAKi PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ようこそジャパリパークへ",
+    "artist": "どうぶつビスケッツ×PPP「けものフレンズ」",
+    "version": "MiLK",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "白い雪のプリンセスは",
+    "artist": "のぼる↑",
+    "version": "MiLK",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "好き！雪！本気マジック",
+    "artist": "Mitchie M",
+    "version": "MiLK",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "スターナイトスノウ",
+    "artist": "n-buna × Orangestar",
+    "version": "MiLK",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ギリギリ最強あいまいみー！",
+    "artist": "愛(C.V.大坪由佳) 麻衣(C.V.内田彩) ミイ(C.V.内田真礼)「あいまいみー」",
+    "version": "MiLK",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "fantastic dreamer",
+    "artist": "Machico「この素晴らしい世界に祝福を！」",
+    "version": "MiLK",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ブリキノダンス",
+    "artist": "日向電工",
+    "version": "MiLK PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "えれくとりっく・えんじぇぅ",
+    "artist": "ヤスオ",
+    "version": "MiLK PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ミラクルペイント",
+    "artist": "OSTER project",
+    "version": "MiLK PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "このふざけた素晴らしき世界は、僕の為にある",
+    "artist": "n.k",
+    "version": "MiLK PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "金の聖夜霜雪に朽ちて",
+    "artist": "デッドボールP",
+    "version": "FiNALE",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Magical Sound Shower",
+    "artist": "HIRO/曲者P",
+    "version": "FiNALE",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "片想いサンバ",
+    "artist": "オワタP",
+    "version": "FiNALE",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "フキゲンワルツ",
+    "artist": "OSTER project",
+    "version": "FiNALE",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "サウンド",
+    "artist": "baker",
+    "version": "FiNALE",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "右肩の蝶",
+    "artist": "のりP",
+    "version": "FiNALE",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "カラフル×メロディ",
+    "artist": "ちーむMOER",
+    "version": "FiNALE",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "ガチャガチャきゅ～と・ふぃぎゅ@メイト",
+    "artist": "MOSAIC.WAV",
+    "version": "FiNALE",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "キミとボクのミライ",
+    "artist": "ジータ（CV:金元寿子）、ルリア（CV:東山奈央）、ヴィーラ（CV:今井麻美）、マリー（CV:長谷川明子）",
+    "version": "FiNALE",
+    "catcode": "ゲーム＆バラエティ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "Lost Princess",
+    "artist": "ペコリーヌ（CV：M・A・O）、コッコロ（CV：伊藤美来）、キャル（CV：立花理香）",
+    "version": "FiNALE",
+    "catcode": "ゲーム＆バラエティ",
+    "release": "000000",
+    "has_std_levels": true,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "I'm with you",
+    "artist": "ラティナ(CV:高尾奏音)",
+    "version": "maimaiでらっくす PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "ウマイネームイズうまみちゃん",
+    "artist": "UMAINA",
+    "version": "maimaiでらっくす PLUS",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "お願いマッスル",
+    "artist": "紗倉ひびき（CV:ファイルーズあい）＆街雄鳴造（CV:石川界人）",
+    "version": "Splash",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "電話革命ナイセン",
+    "artist": "ナイセン - momoco-",
+    "version": "Splash PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "なだめスかし Negotiation（TVsize）",
+    "artist": "鹿乃と宇崎ちゃん",
+    "version": "UNiVERSE",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "Dive into the ZONe",
+    "artist": "ぞん子",
+    "version": "FESTiVAL",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "青春コンプレックス",
+    "artist": "結束バンド",
+    "version": "BUDDiES",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "[協]青春コンプレックス",
+    "artist": "結束バンド",
+    "version": "BUDDiES",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[協]青春コンプレックス",
+    "artist": "結束バンド",
+    "version": "BUDDiES",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "story",
+    "artist": "前島麻由",
+    "version": "BUDDiES",
+    "catcode": "POPS＆アニメ",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "カーニバルハッピー",
+    "artist": "かいりきベア",
+    "version": "BUDDiES PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "つづみぐさ",
+    "artist": "いよわ",
+    "version": "BUDDiES PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  },
+  {
+    "title": "[幸]犬日和。(はっぴー歌唱Ver)",
+    "artist": "こうのさんとはっぴーちゃん/Hiroの犯行",
+    "version": "PRiSM PLUS",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[好]好きな惣菜発表ドラゴン",
+    "artist": "ンバヂ",
+    "version": "PRiSM PLUS",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[譜]好きな惣菜発表ドラゴン",
+    "artist": "ンバヂ",
+    "version": "PRiSM PLUS",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[面]好きな惣菜発表ドラゴン",
+    "artist": "ンバヂ",
+    "version": "PRiSM PLUS",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[発]好きな惣菜発表ドラゴン",
+    "artist": "ンバヂ",
+    "version": "PRiSM PLUS",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[表]好きな惣菜発表ドラゴン",
+    "artist": "ンバヂ",
+    "version": "PRiSM PLUS",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[龍]好きな惣菜発表ドラゴン",
+    "artist": "ンバヂ",
+    "version": "PRiSM PLUS",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[協]Ultimate taste",
+    "artist": "ぱらどっと",
+    "version": "PRiSM PLUS",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[覚]Hainuwele",
+    "artist": "ETIA.",
+    "version": "PRiSM PLUS",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[逆]WE'RE BACK!!",
+    "artist": "Zekk",
+    "version": "PRiSM PLUS",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[協]Seyana. ～何でも言うことを聞いてくれるアカネチャン～",
+    "artist": "GYARI",
+    "version": "PRiSM PLUS",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[耐]星界ちゃんと可不ちゃんのおつかい合騒曲",
+    "artist": "南ノ南",
+    "version": "PRiSM PLUS",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "[騒]ありきたりな恋の歌",
+    "artist": "GYARI",
+    "version": "PRiSM PLUS",
+    "catcode": "宴会場",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": false,
+    "has_image_url": true
+  },
+  {
+    "title": "少女A",
+    "artist": "椎名もた",
+    "version": "PRiSM PLUS",
+    "catcode": "niconico＆ボーカロイド",
+    "release": "000000",
+    "has_std_levels": false,
+    "has_dx_levels": true,
+    "has_image_url": true
+  }
+]
