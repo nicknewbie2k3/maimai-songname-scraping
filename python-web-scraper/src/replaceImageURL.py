@@ -134,33 +134,50 @@ for song in target:
             data_updated += 1
 
 # 4. Add completely new songs from database that don't exist in target
+# Only add songs that have actual chart data (at least one difficulty level)
 for title, db_data in title_to_song_data.items():
     if title not in target_title_map:
-        # Create new song entry
-        new_song = {
-            "title": title,
-            "artist": db_data['artist'],
-            "catcode": db_data['category'],
-            "version": db_data['version'],
-            "dx_lev_bas": db_data['dx_lev_bas'],
-            "dx_lev_adv": db_data['dx_lev_adv'],
-            "dx_lev_exp": db_data['dx_lev_exp'],
-            "dx_lev_mas": db_data['dx_lev_mas'],
-            "dx_lev_remas": db_data['dx_lev_remas'],
-            "lev_bas": db_data['lev_bas'],
-            "lev_adv": db_data['lev_adv'],
-            "lev_exp": db_data['lev_exp'],
-            "lev_mas": db_data['lev_mas'],
-            "lev_remas": db_data['lev_remas'],
-            "image_url": f"https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/{db_data['imageName']}" if db_data['imageName'] else "",
-            "release": "000000",
-            "sort": "",
-            "title_kana": "",
-            "alias": [title],
-            "chart_type": "DX" if db_data['dx_lev_bas'] else "STD"
-        }
-        target.append(new_song)
-        new_songs_added += 1
+        # Check if song has any chart data
+        has_chart_data = any([
+            db_data['dx_lev_bas'],
+            db_data['dx_lev_adv'], 
+            db_data['dx_lev_exp'],
+            db_data['dx_lev_mas'],
+            db_data['dx_lev_remas'],
+            db_data['lev_bas'],
+            db_data['lev_adv'],
+            db_data['lev_exp'],
+            db_data['lev_mas'],
+            db_data['lev_remas']
+        ])
+        
+        # Only add songs with actual chart data
+        if has_chart_data:
+            # Create new song entry
+            new_song = {
+                "title": title,
+                "artist": db_data['artist'],
+                "catcode": db_data['category'],
+                "version": db_data['version'],
+                "dx_lev_bas": db_data['dx_lev_bas'],
+                "dx_lev_adv": db_data['dx_lev_adv'],
+                "dx_lev_exp": db_data['dx_lev_exp'],
+                "dx_lev_mas": db_data['dx_lev_mas'],
+                "dx_lev_remas": db_data['dx_lev_remas'],
+                "lev_bas": db_data['lev_bas'],
+                "lev_adv": db_data['lev_adv'],
+                "lev_exp": db_data['lev_exp'],
+                "lev_mas": db_data['lev_mas'],
+                "lev_remas": db_data['lev_remas'],
+                "image_url": f"https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/{db_data['imageName']}" if db_data['imageName'] else "",
+                "release": "000000",
+                "sort": "",
+                "title_kana": "",
+                "alias": [title],
+                "chart_type": "DX" if db_data['dx_lev_bas'] else "STD"
+            }
+            target.append(new_song)
+            new_songs_added += 1
 
 # 5. Save output
 with open(output_path, 'w', encoding='utf-8') as f:
@@ -177,8 +194,9 @@ print(f"")
 print(f"Data Updates:")
 print(f"  - {data_updated} existing songs updated with missing data")
 print(f"  - {aliases_preserved} songs had existing aliases preserved (community data protected)")
-print(f"  - {new_songs_added} new songs added from database")
+print(f"  - {new_songs_added} new songs added from database (only songs with chart data)")
 print(f"") 
 print(f"Total changes: {image_changed + data_updated + new_songs_added}")
 print(f"Community aliases protected: {aliases_preserved} songs")
+print(f"Note: Songs without chart constants are excluded and should be parsed from final result")
 print(f"Output: {output_path}")
