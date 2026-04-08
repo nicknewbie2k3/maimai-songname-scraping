@@ -3,8 +3,8 @@ import os
 
 # File paths (update if needed)
 database_path = os.path.join(os.path.dirname(__file__), '..', 'maimai-songDatabase.json')
-target_path = os.path.join(os.path.dirname(__file__), 'maimaiJsonFile.json')
-output_path = os.path.join(os.path.dirname(__file__), 'maimaiJsonFile_replaced.json')
+target_path = os.path.join(os.path.dirname(__file__), 'mar2026update.json')
+output_path = os.path.join(os.path.dirname(__file__), 'mar2026update_replaced.json')
 
 # 1. Load song database
 with open(database_path, encoding='utf-8') as f:
