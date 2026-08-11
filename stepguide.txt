@@ -9,3 +9,5 @@ step 6: replaceData: ModifiedInfo -> JsonFile
 step 7: splitData: JsonFile -> Database
 step 8: diffReduction: Database -> OneTypeDatabase
 step 9: replaceImageURL.py -> OneTypeDatabase_replaced
+step 10: purgeNoConstant: remove songs without constants -> OneTypeDatabase_nodup
+step 11: merge_versions: merge correct versions from songDatabase -> maimaiFinal.json

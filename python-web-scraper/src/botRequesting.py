@@ -30,7 +30,7 @@ for song in data:
     song_name = song.get('title', 'Unknown')
     message = f'm>info {song_name}'
     send_message_macro(message)  # This will paste and send the message
-    time.sleep(2)
+    time.sleep(2.5)
 
 # Example usage:
 if __name__ == "__main__":

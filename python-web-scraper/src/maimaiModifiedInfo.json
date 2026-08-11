@@ -55,6 +55,39 @@
     ]
   },
   {
+    "title": "SPICY SWINGY STYLE",
+    "version": "MiLK",
+    "alias": "CV:新田 恵海",
+    "STD": [
+      "5.0",
+      "8.6",
+      "11.8",
+      "13.4"
+    ]
+  },
+  {
+    "title": "Shooting Shower～DANCE TIME(シンディ)～",
+    "version": "FESTiVAL PLUS",
+    "alias": "Shooting Shower~DANCE TIME(shindi",
+    "DX": [
+      "4.0",
+      "6.5",
+      "9.0",
+      "13.0"
+    ]
+  },
+  {
+    "title": "Altale",
+    "version": "FiNALE",
+    "alias": "Altale",
+    "STD": [
+      "4.0",
+      "8.5",
+      "12.4",
+      "13.7"
+    ]
+  },
+  {
     "title": "Revive The Rave",
     "version": "PiNK",
     "alias": "Mournfinale",
@@ -89,14 +122,14 @@
     ]
   },
   {
-    "title": "M@GICAL☆CURE! LOVE ♥ SHOT!",
-    "version": "PRiSM PLUS",
-    "alias": "M@GICAL☆CURE! LOVE ♥ SHOT! / MAGICAL CURE / LOVE SHOT / MAGICAL CURE! LOVE SHOT",
-    "DX": [
+    "title": "ラブチーノ",
+    "version": "MURASAKi PLUS",
+    "alias": "rabuchino / LOVE CINO",
+    "STD": [
       "4.0",
-      "7.8",
-      "11.2",
-      "13.7"
+      "7.3",
+      "9.9",
+      "11.9"
     ]
   },
   {
@@ -211,6 +244,17 @@
       "13.9",
       "14.9",
       "15.0"
+    ]
+  },
+  {
+    "title": "ドラゴンエネルギー",
+    "version": "UNiVERSE",
+    "alias": "doragonenerugi / dragon energy / Dragon Energy",
+    "DX": [
+      "2.0",
+      "6.7",
+      "9.8",
+      "12.5"
     ]
   },
   {
@@ -760,6 +804,12 @@
       "7.2",
       "9.5",
       "13.3"
+    ],
+    "DX": [
+      "3.0",
+      "6.5",
+      "10.0",
+      "13.6"
     ]
   },
   {
@@ -1628,6 +1678,12 @@
       "8.6",
       "10.7",
       "13.5"
+    ],
+    "DX": [
+      "4.0",
+      "7.8",
+      "11.2",
+      "13.5"
     ]
   },
   {
@@ -1932,13 +1988,14 @@
   },
   {
     "title": "Link",
-    "version": "maimai ORANGE",
-    "alias": "天月-あまつき-・un:c・伊東歌詞太郎・コニー・はしやん",
+    "version": "maimai PLUS",
+    "alias": "Link / Link nico / Circle of Friends / Link Circle of Friends",
     "STD": [
       "6.0",
       "7.8",
       "12.6",
-      "12.5"
+      "12.5",
+      "13.5"
     ]
   },
   {
@@ -2536,6 +2593,12 @@
       "7.2",
       "9.5",
       "13.3"
+    ],
+    "DX": [
+      "3.0",
+      "6.5",
+      "10.0",
+      "13.6"
     ]
   },
   {
@@ -2699,7 +2762,7 @@
       "9.1",
       "12.8",
       "14.4",
-      "14.0"
+      "14.2"
     ]
   },
   {
@@ -3527,13 +3590,14 @@
   },
   {
     "title": "Link",
-    "version": "maimai ORANGE",
-    "alias": "天月-あまつき-・un:c・伊東歌詞太郎・コニー・はしやん",
+    "version": "maimai PLUS",
+    "alias": "Link / Link nico / Circle of Friends / Link Circle of Friends",
     "STD": [
       "6.0",
       "7.8",
       "12.6",
-      "12.5"
+      "12.5",
+      "13.5"
     ]
   },
   {
@@ -6178,7 +6242,7 @@
   {
     "title": "Trust",
     "version": "BUDDiES PLUS",
-    "alias": "tin tuong (uppercase",
+    "alias": "tin tuong (lowercase",
     "DX": [
       "3.0",
       "7.0",
@@ -8082,7 +8146,7 @@
       "2.0",
       "6.0",
       "8.7",
-      "12.5"
+      "12.7"
     ]
   },
   {
@@ -10876,6 +10940,17 @@
     ]
   },
   {
+    "title": "BANG!",
+    "version": "UNiVERSE PLUS",
+    "alias": "BANG!",
+    "DX": [
+      "2.0",
+      "6.5",
+      "10.8",
+      "13.1"
+    ]
+  },
+  {
     "title": "Define",
     "version": "UNiVERSE PLUS",
     "alias": "Define",
@@ -10895,17 +10970,6 @@
       "8.8",
       "12.7",
       "14.4"
-    ]
-  },
-  {
-    "title": "BANG!",
-    "version": "UNiVERSE PLUS",
-    "alias": "BANG!",
-    "DX": [
-      "2.0",
-      "6.5",
-      "10.8",
-      "13.1"
     ]
   },
   {
@@ -11285,7 +11349,7 @@
   {
     "title": "エータ・ベータ・イータ",
     "version": "UNiVERSE PLUS",
-    "alias": "eta･beta･ita / eta beta eta / Eta Beta Ita / Eta Beta Eater / Eta Beta Eta / EBE / Eta beta",
+    "alias": "eta･beta･ita / eta beta eta / Eta Beta Ita / Eta Beta Eta / EBE / Eta beta",
     "DX": [
       "6.0",
       "7.8",
@@ -14082,7 +14146,7 @@
   {
     "title": "Trust",
     "version": "BUDDiES PLUS",
-    "alias": "tin tuong (uppercase",
+    "alias": "tin tuong (lowercase",
     "DX": [
       "3.0",
       "7.0",
@@ -14291,7 +14355,7 @@
       "5.0",
       "8.2",
       "11.7",
-      "14.1"
+      "14.0"
     ]
   },
   {
@@ -14302,7 +14366,7 @@
       "6.0",
       "8.2",
       "12.7",
-      "14.0"
+      "14.2"
     ]
   },
   {
@@ -14313,7 +14377,7 @@
       "5.0",
       "7.9",
       "12.2",
-      "14.2"
+      "14.1"
     ]
   },
   {
@@ -14336,7 +14400,7 @@
       "5.0",
       "7.8",
       "11.0",
-      "13.9"
+      "13.8"
     ]
   },
   {
@@ -14404,7 +14468,7 @@
       "4.0",
       "7.5",
       "10.5",
-      "13.8"
+      "13.7"
     ]
   },
   {
@@ -14448,7 +14512,7 @@
       "4.0",
       "8.0",
       "10.8",
-      "13.7"
+      "13.6"
     ]
   },
   {
@@ -14481,7 +14545,7 @@
       "6.0",
       "8.5",
       "13.0",
-      "14.7"
+      "14.6"
     ]
   },
   {
@@ -14503,7 +14567,7 @@
       "4.0",
       "6.0",
       "10.2",
-      "13.7"
+      "13.6"
     ]
   },
   {
@@ -14536,7 +14600,7 @@
       "5.0",
       "8.0",
       "11.3",
-      "13.8"
+      "13.9"
     ]
   },
   {
@@ -14593,7 +14657,7 @@
       "6.8",
       "10.5",
       "11.8",
-      "13.7"
+      "13.6"
     ]
   },
   {
@@ -14625,8 +14689,8 @@
     "DX": [
       "2.0",
       "6.5",
-      "9.8",
-      "13.1"
+      "9.9",
+      "13.2"
     ]
   },
   {
@@ -14670,7 +14734,7 @@
       "6.0",
       "8.0",
       "11.7",
-      "14.2"
+      "14.1"
     ]
   },
   {
@@ -14824,7 +14888,7 @@
       "6.0",
       "8.7",
       "12.4",
-      "14.4"
+      "14.5"
     ]
   },
   {
@@ -14868,7 +14932,7 @@
       "5.0",
       "7.7",
       "12.0",
-      "13.8"
+      "13.7"
     ]
   },
   {
@@ -14956,7 +15020,7 @@
       "4.0",
       "7.7",
       "11.5",
-      "13.9"
+      "13.8"
     ]
   },
   {
@@ -14967,7 +15031,7 @@
       "5.0",
       "7.7",
       "11.7",
-      "13.8"
+      "13.9"
     ]
   },
   {
@@ -14978,7 +15042,7 @@
       "6.0",
       "9.0",
       "13.5",
-      "14.7"
+      "14.6"
     ]
   },
   {
@@ -15044,7 +15108,7 @@
       "5.0",
       "8.7",
       "12.0",
-      "14.3"
+      "14.4"
     ]
   },
   {
@@ -15212,7 +15276,7 @@
       "3.0",
       "6.7",
       "10.5",
-      "13.8"
+      "13.9"
     ]
   },
   {
@@ -15234,7 +15298,7 @@
       "2.0",
       "6.0",
       "9.7",
-      "13.4"
+      "13.7"
     ]
   },
   {
@@ -15256,7 +15320,7 @@
       "4.0",
       "7.8",
       "11.2",
-      "13.7"
+      "13.6"
     ]
   },
   {
@@ -15267,7 +15331,7 @@
       "4.0",
       "7.8",
       "11.0",
-      "14.1"
+      "14.2"
     ]
   },
   {
@@ -15299,7 +15363,7 @@
     "DX": [
       "3.0",
       "7.0",
-      "10.0",
+      "9.9",
       "13.2"
     ]
   },
@@ -15388,7 +15452,7 @@
       "4.0",
       "8.2",
       "12.5",
-      "14.2"
+      "14.3"
     ]
   },
   {
@@ -15453,7 +15517,7 @@
     "DX": [
       "3.0",
       "7.8",
-      "10.5",
+      "10.4",
       "13.0",
       "13.7"
     ]
@@ -15488,7 +15552,7 @@
       "4.0",
       "8.0",
       "11.0",
-      "13.8"
+      "13.9"
     ]
   },
   {
@@ -15499,7 +15563,7 @@
       "4.0",
       "7.8",
       "11.4",
-      "13.8"
+      "14.0"
     ]
   },
   {
@@ -15510,7 +15574,7 @@
       "3.0",
       "7.5",
       "9.8",
-      "13.5"
+      "13.4"
     ]
   },
   {
@@ -15649,7 +15713,7 @@
       "3.0",
       "7.0",
       "10.8",
-      "13.8"
+      "13.7"
     ]
   },
   {
@@ -15669,7 +15733,7 @@
     "alias": "Tidal Wave",
     "DX": [
       "4.0",
-      "7.6",
+      "7.7",
       "12.3",
       "13.8"
     ]
@@ -15682,7 +15746,7 @@
       "6.0",
       "8.2",
       "11.9",
-      "14.2"
+      "14.3"
     ]
   },
   {
@@ -15737,7 +15801,7 @@
       "4.0",
       "7.5",
       "10.5",
-      "13.8"
+      "13.7"
     ]
   },
   {
@@ -15870,7 +15934,7 @@
       "7.2",
       "10.7",
       "12.2",
-      "14.0"
+      "14.1"
     ]
   },
   {
@@ -16004,7 +16068,7 @@
       "3.0",
       "7.8",
       "10.0",
-      "13.7"
+      "13.6"
     ]
   },
   {
@@ -16180,7 +16244,7 @@
       "5.0",
       "8.7",
       "12.9",
-      "14.5"
+      "14.6"
     ]
   },
   {
@@ -16235,13 +16299,19 @@
       "4.0",
       "7.8",
       "11.0",
-      "13.7"
+      "13.8"
     ]
   },
   {
     "title": "僕は空気が嫁ない",
-    "version": "UNiVERSE",
+    "version": "CiRCLE",
     "alias": "bokuwakukigayomenai / I have no air / I can't read the atmosphere / I can't marry the atmosphere",
+    "STD": [
+      "4.0",
+      "7.7",
+      "10.8",
+      "13.5"
+    ],
     "DX": [
       "2.0",
       "7.2",
@@ -16250,44 +16320,191 @@
     ]
   },
   {
-    "title": "初音ミクの消失",
-    "version": "PiNK",
-    "alias": "hatsunemikunoshoshitsu / The Disappearance of Hatsune Miku / disappearance / Disappearance of Hatsune Miku",
-    "STD": [
-      "6.0",
-      "8.8",
-      "11.8",
-      "13.9"
-    ],
+    "title": "ラストピースに祝福と栄光を",
+    "version": "CiRCLE",
+    "alias": "rasutopisunishukufukutoeikoo / Finding Blessing and Glory in the Last Piece / Blessing and Glory / Last piece ni shukufuku to eikou wo / Last piece ni shukufuku",
     "DX": [
-      "6.0",
-      "8.0",
-      "12.0",
-      "14.5"
-    ]
-  },
-  {
-    "title": "ジングルベル",
-    "version": "maimai",
-    "alias": "jinguruberu / Jinglebell / Jingle Bell / Jingle Bells",
-    "STD": [
-      "6.0",
-      "7.9",
-      "10.9",
-      "14.4",
-      "14.2"
-    ],
-    "DX": [
-      "5.0",
-      "7.8",
-      "10.8",
+      "7.0",
+      "9.0",
+      "12.9",
       "14.6"
     ]
   },
   {
+    "title": "初音ミクの暴走",
+    "version": "CiRCLE",
+    "alias": "hatsunemikunoboso / Hatsune Miku's rampage / Hatsune Miku no Bousou / The Rampage of Hatsune Miku / Miku Rampage",
+    "DX": [
+      "6.0",
+      "8.8",
+      "12.7",
+      "13.9"
+    ]
+  },
+  {
+    "title": "Let's ミクササイズ！！",
+    "version": "CiRCLE",
+    "alias": "Lets mikusasaizu!! / Let's Mikusercise!! / Mikusercise",
+    "DX": [
+      "5.0",
+      "8.5",
+      "12.4",
+      "13.8"
+    ]
+  },
+  {
+    "title": "ミクマリ",
+    "version": "CiRCLE",
+    "alias": "mikumari / Mikumari",
+    "DX": [
+      "4.0",
+      "7.8",
+      "10.6",
+      "13.5"
+    ]
+  },
+  {
+    "title": "雲外蒼電 -Dreaming Voltage-",
+    "version": "CiRCLE",
+    "alias": "ungaisouten -Dreaming Voltage- / Ungai Souten -Dreaming Voltage- / Dreaming Voltage",
+    "DX": [
+      "4.0",
+      "7.7",
+      "12.2",
+      "13.9"
+    ]
+  },
+  {
+    "title": "鬼女紅妖",
+    "version": "CiRCLE",
+    "alias": "kijobeni妖 / Kijokouyou",
+    "DX": [
+      "5.0",
+      "8.0",
+      "11.7",
+      "14.1"
+    ]
+  },
+  {
+    "title": "華天月兎",
+    "version": "CiRCLE",
+    "alias": "hanaamatsukiusagi / Katen Moon Rabbit / Katengetto",
+    "DX": [
+      "5.0",
+      "8.2",
+      "12.5",
+      "14.4"
+    ]
+  },
+  {
+    "title": "スノーマン (Rerec)",
+    "version": "CiRCLE",
+    "alias": "sunoman (Rerec",
+    "DX": [
+      "2.0",
+      "6.2",
+      "9.8",
+      "13.1"
+    ]
+  },
+  {
+    "title": "JINGLE DEATH",
+    "version": "CiRCLE",
+    "alias": "JINGLE DEATH",
+    "DX": [
+      "5.0",
+      "8.2",
+      "12.4",
+      "14.1"
+    ]
+  },
+  {
+    "title": "ヤミナベ!!!!",
+    "version": "CiRCLE",
+    "alias": "yaminabe!!!! / Yaminabe!!! / Yaminabe / ヤミナベ",
+    "DX": [
+      "6.0",
+      "8.5",
+      "12.6",
+      "14.5"
+    ]
+  },
+  {
+    "title": "み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ",
+    "version": "CiRCLE",
+    "alias": "mi mu kaｩ wa na i su to ra i / Mimukauwa Nice Try / Mimukauwa",
+    "DX": [
+      "3.0",
+      "6.8",
+      "11.0",
+      "13.7"
+    ]
+  },
+  {
+    "title": "化けの花",
+    "version": "CiRCLE",
+    "alias": "bakenohana / Bake no Hana",
+    "DX": [
+      "4.0",
+      "7.2",
+      "11.0",
+      "13.4"
+    ]
+  },
+  {
+    "title": "うい麦畑でつかまえて",
+    "version": "CiRCLE",
+    "alias": "uimugibatakedetsukamaete / Catcher in the Ui / Ui mugibatake de tsukamaete",
+    "DX": [
+      "3.0",
+      "7.0",
+      "10.8",
+      "13.2"
+    ]
+  },
+  {
+    "title": "勝手に生きましょ",
+    "version": "CiRCLE",
+    "alias": "katteniikimasho / Let's live wilfully / Katte ni ikimasho",
+    "DX": [
+      "3.0",
+      "7.5",
+      "10.4",
+      "13.0"
+    ]
+  },
+  {
+    "title": "アイアイ傘",
+    "version": "CiRCLE",
+    "alias": "aiaikasa / aye aye umbrella / Aiaigasa",
+    "DX": [
+      "2.0",
+      "6.0",
+      "9.7",
+      "12.9"
+    ]
+  },
+  {
+    "title": "INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP",
+    "version": "CiRCLE",
+    "alias": "INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP / INTJ / INFJ / personality test / 3markets",
+    "DX": [
+      "3.0",
+      "6.5",
+      "9.9",
+      "13.3"
+    ]
+  },
+  {
     "title": "Paranoia",
-    "version": "Splash",
+    "version": "CiRCLE",
     "alias": "Paranoia",
+    "STD": [
+      "3.0",
+      "7.0",
+      "10.2",
+      "13.6"
+    ],
     "DX": [
       "4.0",
       "7.0",
@@ -16329,25 +16546,47 @@
     ]
   },
   {
-    "title": "ECHO",
-    "version": "PiNK PLUS",
-    "alias": "ECHO",
-    "STD": [
-      "4.0",
-      "7.6",
-      "11.3",
-      "13.5"
-    ]
-  },
-  {
-    "title": "無間嫉妬劇場『666』",
-    "version": "PRiSM",
-    "alias": "mugenshittogekijo『666』 / Theatre of Jealousy \"666\" / Endless Jealousy Theatre / 666 / Netaminity Shiataa / Mugen Shitto Gekijou / Netaminity Theatre / Jealousy Theatre",
+    "title": "スローグロー",
+    "version": "CiRCLE",
+    "alias": "suroguro / Slow glow",
     "DX": [
       "3.0",
       "7.0",
-      "10.5",
-      "13.0"
+      "10.8",
+      "13.3"
+    ]
+  },
+  {
+    "title": "ECHO,",
+    "version": "CiRCLE",
+    "alias": "ECHO, / ECHO 2 / ECHO2",
+    "DX": [
+      "4.0",
+      "7.9",
+      "11.2",
+      "13.7"
+    ]
+  },
+  {
+    "title": "Phase: Theatre",
+    "version": "CiRCLE",
+    "alias": "Phase: Theatre / Phase: Theater / Phase Theater",
+    "DX": [
+      "5.0",
+      "8.5",
+      "11.7",
+      "13.8"
+    ]
+  },
+  {
+    "title": "Sky Trails",
+    "version": "CiRCLE",
+    "alias": "Sky Trails",
+    "DX": [
+      "5.0",
+      "8.0",
+      "12.8",
+      "14.7"
     ]
   },
   {
@@ -16362,6 +16601,39 @@
     ]
   },
   {
+    "title": "恋の氷結おてんば湯けむりチルノ温泉",
+    "version": "CiRCLE",
+    "alias": "koinohyoketsuotenbayukemurichirunoonsen / Freezing, Tomboyish Steam of Love, Cirno's Hot Spring / Koi no Hyoketsu Otenba Yukemuri Cirno Onsen / Cirno Onsen / Cirno Hot Spring",
+    "DX": [
+      "3.0",
+      "7.2",
+      "10.7",
+      "13.3"
+    ]
+  },
+  {
+    "title": "イタ電はやめて！ ぼくらのスカーレット・コール",
+    "version": "CiRCLE",
+    "alias": "itadenwayamete! bokuranosukaretto･koru / Stop Crank Calling! Our Scarlet Call / Itaden ha Yamete! Bokura no Scarlet Call / Electricity has stopped! at Scarlet Call / Scarlet Call",
+    "DX": [
+      "1.0",
+      "5.8",
+      "9.0",
+      "12.8"
+    ]
+  },
+  {
+    "title": "むしみこうにゃーのハッピッピー",
+    "version": "CiRCLE",
+    "alias": "mushimikonyaーnohappippi / Insect Miko Nya~ Happy Happy / Mushi Miko Unya no Happypy / Happy Happy",
+    "DX": [
+      "3.0",
+      "7.7",
+      "11.0",
+      "13.6"
+    ]
+  },
+  {
     "title": "7 Wonders",
     "version": "CiRCLE",
     "alias": "7 Wonders / kop7 / 7w",
@@ -16373,14 +16645,102 @@
     ]
   },
   {
-    "title": "Baddest",
-    "version": "FESTiVAL",
-    "alias": "Baddest",
+    "title": "WakeUP MakeUP FEVER!",
+    "version": "CiRCLE",
+    "alias": "WakeUP MakeUP FEVER!",
+    "DX": [
+      "2.0",
+      "6.2",
+      "10.0",
+      "13.3"
+    ]
+  },
+  {
+    "title": "give it up to you",
+    "version": "CiRCLE",
+    "alias": "CV：近藤 玲奈",
+    "DX": [
+      "3.0",
+      "7.0",
+      "10.7",
+      "13.2"
+    ]
+  },
+  {
+    "title": "ICEBURN",
+    "version": "CiRCLE",
+    "alias": "ICEBURN",
+    "DX": [
+      "4.0",
+      "8.0",
+      "11.5",
+      "13.8"
+    ]
+  },
+  {
+    "title": "Daredevil Glaive",
+    "version": "CiRCLE",
+    "alias": "Daredevil Glaive",
     "DX": [
       "5.0",
-      "7.5",
-      "10.7",
+      "7.8",
+      "11.8",
+      "14.2"
+    ]
+  },
+  {
+    "title": "KNØCK ØUT!!",
+    "version": "CiRCLE PLUS",
+    "alias": "KNØCK ØUT!! / KNOCK OUT!!",
+    "DX": [
+      "4.0",
+      "7.8",
+      "11.2",
+      "13.8"
+    ]
+  },
+  {
+    "title": "Aides",
+    "version": "CiRCLE PLUS",
+    "alias": "Aides",
+    "DX": [
+      "4.0",
+      "7.8",
+      "10.8",
+      "13.8"
+    ]
+  },
+  {
+    "title": "Treasure Chest Expedition",
+    "version": "CiRCLE PLUS",
+    "alias": "Treasure Chest Expedition",
+    "DX": [
+      "5.0",
+      "8.7",
+      "11.5",
       "13.7"
+    ]
+  },
+  {
+    "title": "ソテリア",
+    "version": "CiRCLE PLUS",
+    "alias": "soteria / Soteria",
+    "DX": [
+      "4.0",
+      "8.2",
+      "12.0",
+      "14.1"
+    ]
+  },
+  {
+    "title": "TECHNOPOLIS 2085",
+    "version": "CiRCLE PLUS",
+    "alias": "TECHNOPOLIS 2085",
+    "DX": [
+      "4.0",
+      "6.5",
+      "10.9",
+      "13.8"
     ]
   },
   {
@@ -16395,43 +16755,159 @@
     ]
   },
   {
-    "title": "キズナの物語",
-    "version": "GreeN PLUS",
-    "alias": "kizunanomonogatari / Chain story / Kizuna no Monogatari",
-    "STD": [
+    "title": "無敵的ハピネス！(SOS団5人Ver.)",
+    "version": "CiRCLE PLUS",
+    "alias": "CV.平野綾",
+    "DX": [
       "3.0",
-      "7.2",
-      "9.1",
+      "7.5",
+      "10.5",
       "13.2"
     ]
   },
   {
-    "title": "ナイト・オブ・ナイツ",
-    "version": "GreeN",
-    "alias": "COOL＆CREATE",
-    "STD": [
-      "4.0",
-      "8.0",
-      "12.0",
-      "13.3",
-      "14.4"
-    ],
+    "title": "Chasing destiny",
+    "version": "CiRCLE PLUS",
+    "alias": "CV.平野綾",
     "DX": [
-      "5.0",
+      "4.0",
       "7.7",
-      "11.8",
-      "13.5"
+      "10.8",
+      "13.7"
     ]
   },
   {
-    "title": "有明/Ariake",
-    "version": "PRiSM",
-    "alias": "ariake/Ariake / Ariake",
+    "title": "Colorful Starting Line",
+    "version": "CiRCLE PLUS",
+    "alias": "CV.平野綾",
+    "DX": [
+      "3.0",
+      "7.5",
+      "10.0",
+      "13.0"
+    ]
+  },
+  {
+    "title": "愛♡スクリ～ム！",
+    "version": "CiRCLE PLUS",
+    "alias": "CV.降幡 愛",
+    "DX": [
+      "2.0",
+      "6.2",
+      "9.5",
+      "11.5",
+      "13.4"
+    ]
+  },
+  {
+    "title": "テレパシ",
+    "version": "CiRCLE PLUS",
+    "alias": "terepashi / telepathy / Telepath / Telepathy",
+    "DX": [
+      "4.0",
+      "7.8",
+      "10.7",
+      "13.3"
+    ]
+  },
+  {
+    "title": "ダイダイダイダイダイキライ",
+    "version": "CiRCLE PLUS",
+    "alias": "daidaidaidaidaikirai / Dai Dai Dai Dai Dai Kirai / I Really Really Really Really Hate You",
+    "DX": [
+      "4.0",
+      "6.5",
+      "10.5",
+      "11.8",
+      "13.6"
+    ]
+  },
+  {
+    "title": "オペラ！スペースオペラ！",
+    "version": "CiRCLE PLUS",
+    "alias": "opera!supesuopera! / Opera! Space opera! / Opera! Space Opera! / Space Opera",
+    "DX": [
+      "4.0",
+      "7.0",
+      "10.6",
+      "13.3"
+    ]
+  },
+  {
+    "title": "T氏の話を信じるな",
+    "version": "CiRCLE PLUS",
+    "alias": "Tshinohanashioshinjiruna / Don't believe Mr. T's story. / Don't Believe Mr. T / Don't Believe What Mr. T Says",
+    "DX": [
+      "3.0",
+      "6.5",
+      "9.8",
+      "13.2"
+    ]
+  },
+  {
+    "title": "超ナイト・オブ・ナイツ",
+    "version": "CiRCLE PLUS",
+    "alias": "chonaito･obu･naitsu / Super Night of Nights / Night of Nights / Chou Night of Nights",
+    "DX": [
+      "4.0",
+      "7.7",
+      "11.8",
+      "14.0"
+    ]
+  },
+  {
+    "title": "浮世絵横丁",
+    "version": "CiRCLE PLUS",
+    "alias": "ukiyoeyokocho / Ukiyo-e Yokocho / Ukiyoe Yokocho / Ukiyo-e Alley / Ukiyoe Alley",
+    "DX": [
+      "4.0",
+      "7.5",
+      "11.4",
+      "13.9"
+    ]
+  },
+  {
+    "title": "AiAe",
+    "version": "CiRCLE PLUS",
+    "alias": "AiAe",
     "DX": [
       "5.0",
-      "8.5",
+      "8.0",
       "12.4",
       "14.4"
+    ]
+  },
+  {
+    "title": "テレパシ",
+    "version": "CiRCLE PLUS",
+    "alias": "terepashi / telepathy / Telepath / Telepathy",
+    "DX": [
+      "4.0",
+      "7.8",
+      "10.7",
+      "13.3"
+    ]
+  },
+  {
+    "title": "キミは“見ていたね”？",
+    "version": "CiRCLE PLUS",
+    "alias": "CV：朝日奈 丸佳",
+    "DX": [
+      "3.0",
+      "6.7",
+      "10.0",
+      "13.1"
+    ]
+  },
+  {
+    "title": "奇々解体",
+    "version": "CiRCLE PLUS",
+    "alias": "ki々kaitai / strange demolition / Kikikaitai",
+    "DX": [
+      "3.0",
+      "6.5",
+      "9.7",
+      "13.2"
     ]
   },
   {
@@ -16443,6 +16919,123 @@
       "8.8",
       "12.9",
       "14.7"
+    ]
+  },
+  {
+    "title": "アニマル",
+    "version": "FESTiVAL",
+    "alias": "animaru / animal / Animal",
+    "DX": [
+      "3.0",
+      "7.8",
+      "10.8",
+      "13.1"
+    ]
+  },
+  {
+    "title": "Operation☆DOTABATA!",
+    "version": "CiRCLE PLUS",
+    "alias": "Operation☆DOTABATA!",
+    "DX": [
+      "3.0",
+      "6.2",
+      "11.0",
+      "13.4"
+    ]
+  },
+  {
+    "title": "RE Aoharu",
+    "version": "CiRCLE PLUS",
+    "alias": "RE Aoharu",
+    "DX": [
+      "3.0",
+      "7.0",
+      "10.7",
+      "13.7"
+    ]
+  },
+  {
+    "title": "Usagi Flap",
+    "version": "CiRCLE PLUS",
+    "alias": "Usagi Flap",
+    "DX": [
+      "3.0",
+      "6.5",
+      "10.5",
+      "13.2"
+    ]
+  },
+  {
+    "title": "Streak",
+    "version": "maimai PLUS",
+    "alias": "IOSYS",
+    "STD": [
+      "6.0",
+      "8.1",
+      "12.7",
+      "13.7"
+    ]
+  },
+  {
+    "title": "康莊大道",
+    "version": "FESTiVAL",
+    "alias": "kan莊daido / Gangzhuang Avenue / main avenue",
+    "DX": [
+      "6.0",
+      "8.7",
+      "13.2",
+      "14.7"
+    ]
+  },
+  {
+    "title": "LOSE CONTROL",
+    "version": "Splash PLUS",
+    "alias": "LOSE CONTROL",
+    "DX": [
+      "3.0",
+      "7.8",
+      "12.4",
+      "13.7"
+    ]
+  },
+  {
+    "title": "HYP3RTRIBE",
+    "version": "PRiSM",
+    "alias": "HYP3RTRIBE / HYPERTRIBE",
+    "DX": [
+      "6.0",
+      "8.0",
+      "11.7",
+      "14.1"
+    ]
+  },
+  {
+    "title": "ナイトメア☆パーティーナイト",
+    "version": "FiNALE",
+    "alias": "naitomea☆patinaito / nightmare☆party night / Nightmare Party Night",
+    "STD": [
+      "5.0",
+      "8.3",
+      "11.0",
+      "11.9",
+      "12.8"
+    ]
+  },
+  {
+    "title": "Change Our MIRAI！",
+    "version": "ORANGE PLUS",
+    "alias": "Change Our MIRAI! / Change Our MIRAI！",
+    "STD": [
+      "4.0",
+      "8.0",
+      "11.0",
+      "13.4"
+    ],
+    "DX": [
+      "4.0",
+      "7.7",
+      "10.8",
+      "12.6"
     ]
   }
 ]

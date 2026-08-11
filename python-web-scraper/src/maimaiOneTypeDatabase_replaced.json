@@ -1005,6 +1005,24 @@
     "chart_type": "STD"
   },
   {
+    "artist": "ひとしずくP・やま△",
+    "catcode": "niconico＆VOCALOID™",
+    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/5e773dbef94ce6e9b693d0ffb44690fe941d372aec9b4dbf78d7005c7b695bf5.png",
+    "release": "000000",
+    "sort": "387",
+    "title": "BAD∞END∞NIGHT [DX]",
+    "title_kana": "BADENDNIGHT",
+    "version": "maimai PLUS",
+    "alias": [
+      "BAD∞END∞NIGHT"
+    ],
+    "lev_bas": "4.0",
+    "lev_adv": "7.8",
+    "lev_exp": "11.2",
+    "lev_mas": "13.5",
+    "chart_type": "DX"
+  },
+  {
     "artist": "doriko",
     "catcode": "niconico＆VOCALOID™",
     "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/47b264f1192714755bbdf8f07049f27d06c866b685c413bf2ff911bac070d248.png",
@@ -1427,10 +1445,11 @@
     "sort": "1109",
     "title": "Link [STD]",
     "title_kana": "LINK1",
-    "version": "maimai ORANGE",
+    "version": "maimai PLUS",
     "alias": [
       "天月-あまつき-・un:c・伊東歌詞太郎・コニー・はしやん"
     ],
+    "lev_remas": "13.5",
     "chart_type": "STD"
   },
   {
@@ -2289,6 +2308,24 @@
     "chart_type": "STD"
   },
   {
+    "artist": "ARM＋夕野ヨシミ(IOSYS)feat. 藤咲かりん",
+    "catcode": "東方Project",
+    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/0c7e1c973cb55bf315c4a7effa2a938640b73ef4c9c8252893cd9a5b8a3cfc4d.png",
+    "release": "000000",
+    "sort": "449",
+    "title": "魔理沙は大変なものを盗んでいきました [DX]",
+    "title_kana": "マリサハタイヘンナモノヲヌスンテイキマシタ",
+    "version": "GreeN",
+    "alias": [
+      "IOSYS"
+    ],
+    "lev_bas": "3.0",
+    "lev_adv": "6.5",
+    "lev_exp": "10.0",
+    "lev_mas": "13.6",
+    "chart_type": "DX"
+  },
+  {
     "artist": "SOUND HOLIC feat. Nana Takahashi",
     "catcode": "東方Project",
     "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/254e17bb3ce7287c1b5303f854d415773b6d3cbd5cbb6626d4cafc21fd91c0d7.png",
@@ -2977,7 +3014,7 @@
     "lev_adv": "9.1",
     "lev_exp": "12.8",
     "lev_mas": "14.4",
-    "lev_remas": "14.0",
+    "lev_remas": "14.2",
     "sort": "1126",
     "title": "System “Z” [STD]",
     "title_kana": "SYSTEMZ",
@@ -5132,10 +5169,11 @@
     "sort": "392",
     "title": "Link [STD]",
     "title_kana": "LINK2",
-    "version": "maimai ORANGE",
+    "version": "maimai PLUS",
     "alias": [
       "天月-あまつき-・un:c・伊東歌詞太郎・コニー・はしやん"
     ],
+    "lev_remas": "13.5",
     "chart_type": "STD"
   },
   {
@@ -13269,7 +13307,7 @@
     "lev_bas": "2.0",
     "lev_adv": "6.0",
     "lev_exp": "8.7",
-    "lev_mas": "12.5",
+    "lev_mas": "12.7",
     "chart_type": "DX"
   },
   {
@@ -14634,9 +14672,27 @@
     "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/13ee9951f5fe8c7a02dbaa81b853396515bc7a51aec675123cd0e09f58c3eca9.png",
     "release": "000000",
     "sort": "533",
+    "title": "Paranoia [STD]",
+    "title_kana": "PARANOIA",
+    "version": "CiRCLE",
+    "alias": [
+      "Paranoia"
+    ],
+    "lev_bas": "3.0",
+    "lev_adv": "7.0",
+    "lev_exp": "10.2",
+    "lev_mas": "13.6",
+    "chart_type": "STD"
+  },
+  {
+    "artist": "DiGiTAL WiNG feat. 花たん",
+    "catcode": "東方Project",
+    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/13ee9951f5fe8c7a02dbaa81b853396515bc7a51aec675123cd0e09f58c3eca9.png",
+    "release": "000000",
+    "sort": "533",
     "title": "Paranoia [DX]",
     "title_kana": "PARANOIA",
-    "version": "Splash",
+    "version": "CiRCLE",
     "alias": [
       "Paranoia"
     ],
@@ -16721,9 +16777,30 @@
     "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/8512a4150d41345bac054dcf79da26bcf010ef73bd5f09a52ced1820f28eaafb.png",
     "release": "000000",
     "sort": "196",
+    "title": "僕は空気が嫁ない [STD]",
+    "title_kana": "ホクハクウキカヨメナイ",
+    "version": "CiRCLE",
+    "alias": [
+      "bokuwakukigayomenai",
+      "I have no air",
+      "I can't read the atmosphere",
+      "I can't marry the atmosphere"
+    ],
+    "lev_bas": "4.0",
+    "lev_adv": "7.7",
+    "lev_exp": "10.8",
+    "lev_mas": "13.5",
+    "chart_type": "STD"
+  },
+  {
+    "artist": "cosMo＠暴走P",
+    "catcode": "niconico＆VOCALOID™",
+    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/8512a4150d41345bac054dcf79da26bcf010ef73bd5f09a52ced1820f28eaafb.png",
+    "release": "000000",
+    "sort": "196",
     "title": "僕は空気が嫁ない [DX]",
     "title_kana": "ホクハクウキカヨメナイ",
-    "version": "UNiVERSE",
+    "version": "CiRCLE",
     "alias": [
       "bokuwakukigayomenai",
       "I have no air",
@@ -23859,7 +23936,7 @@
     "lev_bas": "5.0",
     "lev_adv": "8.2",
     "lev_exp": "11.7",
-    "lev_mas": "14.1",
+    "lev_mas": "14.0",
     "chart_type": "DX"
   },
   {
@@ -23884,7 +23961,7 @@
     "lev_bas": "4.0",
     "lev_adv": "8.0",
     "lev_exp": "10.8",
-    "lev_mas": "13.7",
+    "lev_mas": "13.6",
     "chart_type": "DX"
   },
   {
@@ -23902,7 +23979,7 @@
     "lev_bas": "6.0",
     "lev_adv": "8.5",
     "lev_exp": "13.0",
-    "lev_mas": "14.7",
+    "lev_mas": "14.6",
     "chart_type": "DX"
   },
   {
@@ -23941,7 +24018,7 @@
     "lev_bas": "5.0",
     "lev_adv": "8.0",
     "lev_exp": "11.3",
-    "lev_mas": "13.8",
+    "lev_mas": "13.9",
     "chart_type": "DX"
   },
   {
@@ -24081,7 +24158,7 @@
     "lev_bas": "4.0",
     "lev_adv": "7.7",
     "lev_exp": "11.5",
-    "lev_mas": "13.9",
+    "lev_mas": "13.8",
     "chart_type": "DX"
   },
   {
@@ -24102,7 +24179,7 @@
     "lev_bas": "5.0",
     "lev_adv": "7.7",
     "lev_exp": "11.7",
-    "lev_mas": "13.8",
+    "lev_mas": "13.9",
     "chart_type": "DX"
   },
   {
@@ -24123,7 +24200,7 @@
     "lev_bas": "6.0",
     "lev_adv": "9.0",
     "lev_exp": "13.5",
-    "lev_mas": "14.7",
+    "lev_mas": "14.6",
     "chart_type": "DX"
   },
   {
@@ -24164,7 +24241,7 @@
     "lev_bas": "6.0",
     "lev_adv": "8.2",
     "lev_exp": "12.7",
-    "lev_mas": "14.0",
+    "lev_mas": "14.2",
     "chart_type": "DX"
   },
   {
@@ -24184,7 +24261,7 @@
     "lev_bas": "5.0",
     "lev_adv": "7.9",
     "lev_exp": "12.2",
-    "lev_mas": "14.2",
+    "lev_mas": "14.1",
     "chart_type": "DX"
   },
   {
@@ -24304,7 +24381,7 @@
     "lev_bas": "5.0",
     "lev_adv": "7.8",
     "lev_exp": "11.0",
-    "lev_mas": "13.9",
+    "lev_mas": "13.8",
     "chart_type": "DX"
   },
   {
@@ -24422,7 +24499,7 @@
     "lev_bas": "4.0",
     "lev_adv": "7.5",
     "lev_exp": "10.5",
-    "lev_mas": "13.8",
+    "lev_mas": "13.7",
     "chart_type": "DX"
   },
   {
@@ -24498,8 +24575,8 @@
     ],
     "lev_bas": "2.0",
     "lev_adv": "6.5",
-    "lev_exp": "9.8",
-    "lev_mas": "13.1",
+    "lev_exp": "9.9",
+    "lev_mas": "13.2",
     "chart_type": "DX"
   },
   {
@@ -24561,7 +24638,7 @@
     "lev_bas": "4.0",
     "lev_adv": "6.0",
     "lev_exp": "10.2",
-    "lev_mas": "13.7",
+    "lev_mas": "13.6",
     "chart_type": "DX"
   },
   {
@@ -24622,7 +24699,7 @@
     "lev_adv": "6.8",
     "lev_exp": "10.5",
     "lev_mas": "11.8",
-    "lev_remas": "13.7",
+    "lev_remas": "13.6",
     "chart_type": "DX"
   },
   {
@@ -24819,7 +24896,7 @@
     "lev_bas": "6.0",
     "lev_adv": "8.7",
     "lev_exp": "12.4",
-    "lev_mas": "14.4",
+    "lev_mas": "14.5",
     "chart_type": "DX"
   },
   {
@@ -24839,7 +24916,7 @@
     "lev_bas": "6.0",
     "lev_adv": "8.0",
     "lev_exp": "11.7",
-    "lev_mas": "14.2",
+    "lev_mas": "14.1",
     "chart_type": "DX"
   },
   {
@@ -25092,7 +25169,7 @@
     "lev_bas": "5.0",
     "lev_adv": "7.7",
     "lev_exp": "12.0",
-    "lev_mas": "13.8",
+    "lev_mas": "13.7",
     "chart_type": "DX"
   },
   {
@@ -25209,7 +25286,7 @@
     "lev_bas": "5.0",
     "lev_adv": "8.7",
     "lev_exp": "12.0",
-    "lev_mas": "14.3",
+    "lev_mas": "14.4",
     "chart_type": "DX"
   },
   {
@@ -25227,7 +25304,7 @@
       "Tidal Wave"
     ],
     "lev_bas": "4.0",
-    "lev_adv": "7.6",
+    "lev_adv": "7.7",
     "lev_exp": "12.3",
     "lev_mas": "13.8",
     "chart_type": "DX"
@@ -29003,9 +29080,13 @@
     "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/b3c6b27dfb04c39eecf3126d21066f49609b62f9f5da2b0ea0a7af701cd89d13.png",
     "release": "000000",
     "sort": "",
-    "title": "Touch Tap Baby",
+    "title": "Touch Tap Baby [STD]",
     "title_kana": "",
     "version": "MURASAKi PLUS",
+    "lev_bas": "4",
+    "lev_adv": "6",
+    "lev_exp": "7.6",
+    "lev_mas": "10",
     "chart_type": "STD"
   },
   {
@@ -29036,9 +29117,13 @@
     "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/49e0fc37f3f543338eda0c08a6a3fe31b0a7ea3d0fbdf2991984b27c0f24a93c.png",
     "release": "000000",
     "sort": "",
-    "title": "Ievan Polkka",
+    "title": "Ievan Polkka [STD]",
     "title_kana": "",
     "version": "FiNALE",
+    "lev_bas": "3",
+    "lev_adv": "6",
+    "lev_exp": "11",
+    "lev_mas": "13",
     "chart_type": "STD"
   },
   {
@@ -30188,7 +30273,7 @@
     "lev_bas": "3.0",
     "lev_adv": "6.7",
     "lev_exp": "10.5",
-    "lev_mas": "13.8",
+    "lev_mas": "13.9",
     "chart_type": "DX"
   },
   {
@@ -30226,7 +30311,7 @@
     "lev_bas": "2.0",
     "lev_adv": "6.0",
     "lev_exp": "9.7",
-    "lev_mas": "13.4",
+    "lev_mas": "13.7",
     "chart_type": "DX"
   },
   {
@@ -30276,7 +30361,7 @@
     "lev_bas": "4.0",
     "lev_adv": "7.8",
     "lev_exp": "11.2",
-    "lev_mas": "13.7",
+    "lev_mas": "13.6",
     "chart_type": "DX"
   },
   {
@@ -30294,7 +30379,7 @@
     "lev_bas": "4.0",
     "lev_adv": "7.8",
     "lev_exp": "11.0",
-    "lev_mas": "14.1",
+    "lev_mas": "14.2",
     "chart_type": "DX"
   },
   {
@@ -30352,7 +30437,7 @@
     ],
     "lev_bas": "3.0",
     "lev_adv": "7.0",
-    "lev_exp": "10.0",
+    "lev_exp": "9.9",
     "lev_mas": "13.2",
     "chart_type": "DX"
   },
@@ -30585,7 +30670,7 @@
     "lev_bas": "4.0",
     "lev_adv": "8.2",
     "lev_exp": "12.5",
-    "lev_mas": "14.2",
+    "lev_mas": "14.3",
     "chart_type": "DX"
   },
   {
@@ -30742,7 +30827,7 @@
     ],
     "lev_bas": "3.0",
     "lev_adv": "7.8",
-    "lev_exp": "10.5",
+    "lev_exp": "10.4",
     "lev_mas": "13.0",
     "lev_remas": "13.7",
     "chart_type": "DX"
@@ -30802,7 +30887,7 @@
     "lev_bas": "4.0",
     "lev_adv": "8.0",
     "lev_exp": "11.0",
-    "lev_mas": "13.8",
+    "lev_mas": "13.9",
     "chart_type": "DX"
   },
   {
@@ -30822,7 +30907,7 @@
     "lev_bas": "4.0",
     "lev_adv": "7.8",
     "lev_exp": "11.4",
-    "lev_mas": "13.8",
+    "lev_mas": "14.0",
     "chart_type": "DX"
   },
   {
@@ -30844,7 +30929,7 @@
     "lev_bas": "3.0",
     "lev_adv": "7.5",
     "lev_exp": "9.8",
-    "lev_mas": "13.5",
+    "lev_mas": "13.4",
     "chart_type": "DX"
   },
   {
@@ -31040,7 +31125,7 @@
     "lev_bas": "3.0",
     "lev_adv": "7.0",
     "lev_exp": "10.8",
-    "lev_mas": "13.8",
+    "lev_mas": "13.7",
     "chart_type": "DX"
   },
   {
@@ -31097,7 +31182,7 @@
     "lev_bas": "6.0",
     "lev_adv": "8.2",
     "lev_exp": "11.9",
-    "lev_mas": "14.2",
+    "lev_mas": "14.3",
     "chart_type": "DX"
   },
   {
@@ -31227,7 +31312,7 @@
     "lev_bas": "4.0",
     "lev_adv": "7.5",
     "lev_exp": "10.5",
-    "lev_mas": "13.8",
+    "lev_mas": "13.7",
     "chart_type": "DX"
   },
   {
@@ -31508,7 +31593,7 @@
     "lev_adv": "7.2",
     "lev_exp": "10.7",
     "lev_mas": "12.2",
-    "lev_remas": "14.0",
+    "lev_remas": "14.1",
     "chart_type": "DX"
   },
   {
@@ -31741,7 +31826,7 @@
     "lev_bas": "3.0",
     "lev_adv": "7.8",
     "lev_exp": "10.0",
-    "lev_mas": "13.7",
+    "lev_mas": "13.6",
     "chart_type": "DX"
   },
   {
@@ -32051,7 +32136,7 @@
     "lev_bas": "5.0",
     "lev_adv": "8.7",
     "lev_exp": "12.9",
-    "lev_mas": "14.5",
+    "lev_mas": "14.6",
     "chart_type": "DX"
   },
   {
@@ -32151,7 +32236,7 @@
     "lev_bas": "4.0",
     "lev_adv": "7.8",
     "lev_exp": "11.0",
-    "lev_mas": "13.7",
+    "lev_mas": "13.8",
     "chart_type": "DX"
   },
   {
@@ -32742,48 +32827,22 @@
     "catcode": "オンゲキ＆CHUNITHM",
     "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/d39c7d636539e2489565a7f18b3eb7c985ef56fea9045017e1256eed1bbce28f.png",
     "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "ラストピースに祝福と栄光を [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
-  },
-  {
-    "artist": "cosMo＠暴走P",
-    "catcode": "オンゲキ＆CHUNITHM",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/d39c7d636539e2489565a7f18b3eb7c985ef56fea9045017e1256eed1bbce28f.png",
-    "release": "000000",
     "sort": "",
     "title": "ラストピースに祝福と栄光を [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "7",
-    "lev_adv": "9",
+    "alias": [
+      "rasutopisunishukufukutoeikoo",
+      "Finding Blessing and Glory in the Last Piece",
+      "Blessing and Glory",
+      "Last piece ni shukufuku to eikou wo",
+      "Last piece ni shukufuku"
+    ],
+    "lev_bas": "7.0",
+    "lev_adv": "9.0",
     "lev_exp": "12.9",
     "lev_mas": "14.6",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "cosMo＠暴走P",
-    "catcode": "niconico＆ボーカロイド",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/974a80aaf1edd76b49ec3e5ab208ae9fd19fa6d6b6276062b938c9d23c2923ba.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "初音ミクの暴走 [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "cosMo＠暴走P",
@@ -32794,28 +32853,18 @@
     "title": "初音ミクの暴走 [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "6",
-    "lev_adv": "8.6",
+    "alias": [
+      "hatsunemikunoboso",
+      "Hatsune Miku's rampage",
+      "Hatsune Miku no Bousou",
+      "The Rampage of Hatsune Miku",
+      "Miku Rampage"
+    ],
+    "lev_bas": "6.0",
+    "lev_adv": "8.8",
     "lev_exp": "12.7",
     "lev_mas": "13.9",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "cosMo＠暴走P「Fit Boxing feat. 初音ミク -ミクといっしょにエクササイズ-」",
-    "catcode": "niconico＆ボーカロイド",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/ce882a1f0f7daf69ed69377b0e831459afa9ca46a810871076355efccf0efc04.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "Let's ミクササイズ！！ [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "cosMo＠暴走P「Fit Boxing feat. 初音ミク -ミクといっしょにエクササイズ-」",
@@ -32826,28 +32875,16 @@
     "title": "Let's ミクササイズ！！ [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "5",
-    "lev_adv": "8",
+    "alias": [
+      "Lets mikusasaizu!!",
+      "Let's Mikusercise!!",
+      "Mikusercise"
+    ],
+    "lev_bas": "5.0",
+    "lev_adv": "8.5",
     "lev_exp": "12.4",
     "lev_mas": "13.8",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "テヅカ",
-    "catcode": "maimai",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/49a0f6c6bc20c9565051e90d023452c03a0ec4f517dd0cad63096b173f8792d9.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "ミクマリ [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "テヅカ",
@@ -32858,28 +32895,15 @@
     "title": "ミクマリ [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "4",
-    "lev_adv": "7.6",
+    "alias": [
+      "mikumari",
+      "Mikumari"
+    ],
+    "lev_bas": "4.0",
+    "lev_adv": "7.8",
     "lev_exp": "10.6",
     "lev_mas": "13.5",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "adaptor vs DRIVE.",
-    "catcode": "maimai",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/b1fb06f9dff35eaeb7896c98afa607cdab20050d36a78e2cb38f3dea21f767e7.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "雲外蒼電 -Dreaming Voltage- [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "adaptor vs DRIVE.",
@@ -32890,28 +32914,16 @@
     "title": "雲外蒼電 -Dreaming Voltage- [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "4",
-    "lev_adv": "7.6",
+    "alias": [
+      "ungaisouten -Dreaming Voltage-",
+      "Ungai Souten -Dreaming Voltage-",
+      "Dreaming Voltage"
+    ],
+    "lev_bas": "4.0",
+    "lev_adv": "7.7",
     "lev_exp": "12.2",
     "lev_mas": "13.9",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "Earliri",
-    "catcode": "maimai",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/ad9737d3fd62b76ebdae69b93e3ce6bc5798c3562d98abb6eafd409f62410b0b.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "鬼女紅妖 [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "Earliri",
@@ -32922,28 +32934,15 @@
     "title": "鬼女紅妖 [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "5",
-    "lev_adv": "8",
-    "lev_exp": "11.6",
+    "alias": [
+      "kijobeni妖",
+      "Kijokouyou"
+    ],
+    "lev_bas": "5.0",
+    "lev_adv": "8.0",
+    "lev_exp": "11.7",
     "lev_mas": "14.1",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "satella feat.Risa Yuzuki",
-    "catcode": "maimai",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/b59a36fc60cb860b193bffd6a3f6d9de3ca7db8d10ed463a75a36a92c568c0ee.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "華天月兎 [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "satella feat.Risa Yuzuki",
@@ -32954,28 +32953,16 @@
     "title": "華天月兎 [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "5",
-    "lev_adv": "8",
+    "alias": [
+      "hanaamatsukiusagi",
+      "Katen Moon Rabbit",
+      "Katengetto"
+    ],
+    "lev_bas": "5.0",
+    "lev_adv": "8.2",
     "lev_exp": "12.5",
     "lev_mas": "14.4",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "halyosy",
-    "catcode": "niconico＆ボーカロイド",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/af350450b1d30c36e70ffc324a7f36da8cac5e5a2c2e81087688e92a55b1c3ec.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "スノーマン (Rerec) [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "halyosy",
@@ -32986,28 +32973,14 @@
     "title": "スノーマン (Rerec) [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "2",
-    "lev_adv": "6",
-    "lev_exp": "9.6",
+    "alias": [
+      "sunoman (Rerec"
+    ],
+    "lev_bas": "2.0",
+    "lev_adv": "6.2",
+    "lev_exp": "9.8",
     "lev_mas": "13.1",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "DJ Myosuke & Gram",
-    "catcode": "ゲーム＆バラエティ",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/5ce83f4f6d8d73983036fd9e40cacd44c31815bdd19b6c05de03d8e767aef6c3.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "JINGLE DEATH [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "DJ Myosuke & Gram",
@@ -33018,28 +32991,14 @@
     "title": "JINGLE DEATH [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "5",
-    "lev_adv": "8",
+    "alias": [
+      "JINGLE DEATH"
+    ],
+    "lev_bas": "5.0",
+    "lev_adv": "8.2",
     "lev_exp": "12.4",
     "lev_mas": "14.1",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "cosMo＠暴走P",
-    "catcode": "niconico＆ボーカロイド",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/881a04259aeff8e0d6efcbfd50e75eee365140a225f2bc22d306258fe16986f5.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "ヤミナベ!!!! [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "cosMo＠暴走P",
@@ -33050,11 +33009,16 @@
     "title": "ヤミナベ!!!! [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "6",
-    "lev_adv": "8",
+    "alias": [
+      "yaminabe!!!!",
+      "Yaminabe!!!",
+      "Yaminabe",
+      "ヤミナベ"
+    ],
+    "lev_bas": "6.0",
+    "lev_adv": "8.5",
     "lev_exp": "12.6",
     "lev_mas": "14.5",
-    "lev_remas": "",
     "chart_type": "DX"
   },
   {
@@ -33126,48 +33090,20 @@
     "catcode": "niconico＆ボーカロイド",
     "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/9ed4cf307b6b51287ea3e8f2f1a39611a099b02e568612358ff5b8e83b7ab67f.png",
     "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
-  },
-  {
-    "artist": "ぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬぬ",
-    "catcode": "niconico＆ボーカロイド",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/9ed4cf307b6b51287ea3e8f2f1a39611a099b02e568612358ff5b8e83b7ab67f.png",
-    "release": "000000",
     "sort": "",
     "title": "み　む　かｩ　わ　ナ　イ　ス　ト　ラ　イ [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "3",
-    "lev_adv": "6",
-    "lev_exp": "11",
+    "alias": [
+      "mi mu kaｩ wa na i su to ra i",
+      "Mimukauwa Nice Try",
+      "Mimukauwa"
+    ],
+    "lev_bas": "3.0",
+    "lev_adv": "6.8",
+    "lev_exp": "11.0",
     "lev_mas": "13.7",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "なきそ",
-    "catcode": "niconico＆ボーカロイド",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/806f1365a1545d43dea49cc0b71f71f152f1ab2178a0e14ddb45b916bb9733a8.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "化けの花 [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "なきそ",
@@ -33178,28 +33114,15 @@
     "title": "化けの花 [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "4",
-    "lev_adv": "7",
-    "lev_exp": "11",
+    "alias": [
+      "bakenohana",
+      "Bake no Hana"
+    ],
+    "lev_bas": "4.0",
+    "lev_adv": "7.2",
+    "lev_exp": "11.0",
     "lev_mas": "13.4",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "しぐれうい",
-    "catcode": "POPS＆アニメ",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/315c2f4ef69b30f79f3e94276eea18f4f9dcb600bf1918a4c8d623a6d3069889.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "うい麦畑でつかまえて [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "しぐれうい",
@@ -33210,28 +33133,16 @@
     "title": "うい麦畑でつかまえて [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "3",
-    "lev_adv": "7",
-    "lev_exp": "10.6",
+    "alias": [
+      "uimugibatakedetsukamaete",
+      "Catcher in the Ui",
+      "Ui mugibatake de tsukamaete"
+    ],
+    "lev_bas": "3.0",
+    "lev_adv": "7.0",
+    "lev_exp": "10.8",
     "lev_mas": "13.2",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "しぐれうい",
-    "catcode": "POPS＆アニメ",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/8f646c2dae16dfa1f2ce797ccafce3b0d151b4ce0293dc874e66aedf61a6f7bc.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "勝手に生きましょ [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "しぐれうい",
@@ -33242,28 +33153,16 @@
     "title": "勝手に生きましょ [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "3",
-    "lev_adv": "7",
-    "lev_exp": "10",
-    "lev_mas": "13",
-    "lev_remas": "",
+    "alias": [
+      "katteniikimasho",
+      "Let's live wilfully",
+      "Katte ni ikimasho"
+    ],
+    "lev_bas": "3.0",
+    "lev_adv": "7.5",
+    "lev_exp": "10.4",
+    "lev_mas": "13.0",
     "chart_type": "DX"
-  },
-  {
-    "artist": "ハム feat. 雨衣",
-    "catcode": "niconico＆ボーカロイド",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/7f1e94161551e3863a590428813241950678cf838e9aac8be0fa6005d0fc8967.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "アイアイ傘 [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "ハム feat. 雨衣",
@@ -33274,28 +33173,16 @@
     "title": "アイアイ傘 [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "2",
-    "lev_adv": "6",
-    "lev_exp": "9.6",
+    "alias": [
+      "aiaikasa",
+      "aye aye umbrella",
+      "Aiaigasa"
+    ],
+    "lev_bas": "2.0",
+    "lev_adv": "6.0",
+    "lev_exp": "9.7",
     "lev_mas": "12.9",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "3markets[ ]",
-    "catcode": "POPS＆アニメ",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/f13031c7d0390a23079c0b0344a272caa9dbb965d74a4d7edddcc9ae9bfee985.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "3markets[ ]",
@@ -33306,11 +33193,17 @@
     "title": "INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "3",
-    "lev_adv": "6",
-    "lev_exp": "9.6",
+    "alias": [
+      "INTJINTPENTJENTPINFJENFJINFPENFPISTJISFJESTJESFJESTPISTPISFPESFP",
+      "INTJ",
+      "INFJ",
+      "personality test",
+      "3markets"
+    ],
+    "lev_bas": "3.0",
+    "lev_adv": "6.5",
+    "lev_exp": "9.9",
     "lev_mas": "13.3",
-    "lev_remas": "",
     "chart_type": "DX"
   },
   {
@@ -33382,48 +33275,19 @@
     "catcode": "maimai",
     "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/3457faca05095949f17a1ee55033a9e0cac004eecd22601ec17b493ebdf7e436.png",
     "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "スローグロー [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
-  },
-  {
-    "artist": "nayuta",
-    "catcode": "maimai",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/3457faca05095949f17a1ee55033a9e0cac004eecd22601ec17b493ebdf7e436.png",
-    "release": "000000",
     "sort": "",
     "title": "スローグロー [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "3",
-    "lev_adv": "7",
-    "lev_exp": "10.6",
+    "alias": [
+      "suroguro",
+      "Slow glow"
+    ],
+    "lev_bas": "3.0",
+    "lev_adv": "7.0",
+    "lev_exp": "10.8",
     "lev_mas": "13.3",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "棗いつき",
-    "catcode": "maimai",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/37a0076ef4629d674842b28c9cc58f4c0c679e5c98da15e9b9959fe8e4bbf1d7.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "ECHO, [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "棗いつき",
@@ -33434,28 +33298,16 @@
     "title": "ECHO, [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "4",
-    "lev_adv": "7.6",
-    "lev_exp": "11",
+    "alias": [
+      "ECHO,",
+      "ECHO 2",
+      "ECHO2"
+    ],
+    "lev_bas": "4.0",
+    "lev_adv": "7.9",
+    "lev_exp": "11.2",
     "lev_mas": "13.7",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "藍月なくる",
-    "catcode": "maimai",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/a62918a7cc1de3acdcf8beca1028fd3158698de8b4ec0bdb8be068300d2ec051.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "Phase: Theatre [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "藍月なくる",
@@ -33466,28 +33318,16 @@
     "title": "Phase: Theatre [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "5",
-    "lev_adv": "8",
-    "lev_exp": "11.6",
+    "alias": [
+      "Phase: Theatre",
+      "Phase: Theater",
+      "Phase Theater"
+    ],
+    "lev_bas": "5.0",
+    "lev_adv": "8.5",
+    "lev_exp": "11.7",
     "lev_mas": "13.8",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "La prière",
-    "catcode": "maimai",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/62f55591b921a168db75481c1ba79af0784a3f74ca541b3aafb7ac4181d11f6f.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "Sky Trails [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "La prière",
@@ -33498,28 +33338,14 @@
     "title": "Sky Trails [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "5",
-    "lev_adv": "8",
+    "alias": [
+      "Sky Trails"
+    ],
+    "lev_bas": "5.0",
+    "lev_adv": "8.0",
     "lev_exp": "12.8",
     "lev_mas": "14.7",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "uno×夕野ヨシミ feat. miko",
-    "catcode": "東方Project",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/1a6396421dcb22f018e02b429382cd2e4218d22c79bce18849960c5da1117708.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "恋の氷結おてんば湯けむりチルノ温泉 [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "uno×夕野ヨシミ feat. miko",
@@ -33530,28 +33356,18 @@
     "title": "恋の氷結おてんば湯けむりチルノ温泉 [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "3",
-    "lev_adv": "7",
-    "lev_exp": "10.6",
+    "alias": [
+      "koinohyoketsuotenbayukemurichirunoonsen",
+      "Freezing, Tomboyish Steam of Love, Cirno's Hot Spring",
+      "Koi no Hyoketsu Otenba Yukemuri Cirno Onsen",
+      "Cirno Onsen",
+      "Cirno Hot Spring"
+    ],
+    "lev_bas": "3.0",
+    "lev_adv": "7.2",
+    "lev_exp": "10.7",
     "lev_mas": "13.3",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "七条レタスグループ",
-    "catcode": "東方Project",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/457a18322173d292140207e2c4253a2d7e69976e77db27628563867d46f5de23.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "イタ電はやめて！ ぼくらのスカーレット・コール [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "七条レタスグループ",
@@ -33562,28 +33378,18 @@
     "title": "イタ電はやめて！ ぼくらのスカーレット・コール [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "1",
-    "lev_adv": "5",
-    "lev_exp": "9",
+    "alias": [
+      "itadenwayamete! bokuranosukaretto･koru",
+      "Stop Crank Calling! Our Scarlet Call",
+      "Itaden ha Yamete! Bokura no Scarlet Call",
+      "Electricity has stopped! at Scarlet Call",
+      "Scarlet Call"
+    ],
+    "lev_bas": "1.0",
+    "lev_adv": "5.8",
+    "lev_exp": "9.0",
     "lev_mas": "12.8",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "ARM×狐夢想 feat. miko×山本椛",
-    "catcode": "東方Project",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/83c8b17a67bb6a2b30ca8d4652e1ee9bafac942bbac09d5ecbb3500eae766492.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "むしみこうにゃーのハッピッピー [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "ARM×狐夢想 feat. miko×山本椛",
@@ -33594,28 +33400,17 @@
     "title": "むしみこうにゃーのハッピッピー [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "3",
-    "lev_adv": "7.6",
-    "lev_exp": "11",
+    "alias": [
+      "mushimikonyaーnohappippi",
+      "Insect Miko Nya~ Happy Happy",
+      "Mushi Miko Unya no Happypy",
+      "Happy Happy"
+    ],
+    "lev_bas": "3.0",
+    "lev_adv": "7.7",
+    "lev_exp": "11.0",
     "lev_mas": "13.6",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "曲：アオワイファイ／歌：オンゲキシューターズ",
-    "catcode": "オンゲキ＆CHUNITHM",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/c6907b0483b2bc0c34bce2138991086ce96be427f893137ca7fe040658149177.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "WakeUP MakeUP FEVER! [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "曲：アオワイファイ／歌：オンゲキシューターズ",
@@ -33626,28 +33421,14 @@
     "title": "WakeUP MakeUP FEVER! [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "2",
-    "lev_adv": "6",
-    "lev_exp": "10",
+    "alias": [
+      "WakeUP MakeUP FEVER!"
+    ],
+    "lev_bas": "2.0",
+    "lev_adv": "6.2",
+    "lev_exp": "10.0",
     "lev_mas": "13.3",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "曲：中土智博／歌：bitter flavor [桜井 春菜(CV：近藤 玲奈)、早乙女 彩華(CV：中島 唯)]",
-    "catcode": "オンゲキ＆CHUNITHM",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/e602ec5e5622f586661f63509a9beb6c10bc87e242bcb2857ae7d17382be272a.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "give it up to you [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "曲：中土智博／歌：bitter flavor [桜井 春菜(CV：近藤 玲奈)、早乙女 彩華(CV：中島 唯)]",
@@ -33658,28 +33439,14 @@
     "title": "give it up to you [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "3",
-    "lev_adv": "7",
-    "lev_exp": "10.6",
+    "alias": [
+      "CV：近藤 玲奈"
+    ],
+    "lev_bas": "3.0",
+    "lev_adv": "7.0",
+    "lev_exp": "10.7",
     "lev_mas": "13.2",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "Srav3R",
-    "catcode": "オンゲキ＆CHUNITHM",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/fdc849a509cdfe9ac2877dd897b326c0a2cd4b6cf52d8c567e4abedf43aecce3.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "ICEBURN [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "Srav3R",
@@ -33690,28 +33457,14 @@
     "title": "ICEBURN [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "4",
-    "lev_adv": "8",
-    "lev_exp": "11",
+    "alias": [
+      "ICEBURN"
+    ],
+    "lev_bas": "4.0",
+    "lev_adv": "8.0",
+    "lev_exp": "11.5",
     "lev_mas": "13.8",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "Artifact",
-    "catcode": "オンゲキ＆CHUNITHM",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/664870085a9a831cd92dd5cf26853bc80e70992e530db559187422db671b6889.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "Daredevil Glaive [STD]",
-    "title_kana": "",
-    "version": "CiRCLE",
-    "chart_type": "STD"
   },
   {
     "artist": "Artifact",
@@ -33722,28 +33475,14 @@
     "title": "Daredevil Glaive [DX]",
     "title_kana": "",
     "version": "CiRCLE",
-    "lev_bas": "5",
-    "lev_adv": "7.6",
-    "lev_exp": "11.6",
+    "alias": [
+      "Daredevil Glaive"
+    ],
+    "lev_bas": "5.0",
+    "lev_adv": "7.8",
+    "lev_exp": "11.8",
     "lev_mas": "14.2",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "DIVELA feat.ラングドシャ",
-    "catcode": "maimai",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/8c571ebeca56955fac0226f9d907c769e7248653dd63e7d9c20ebcd1904fa31b.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "KNØCK ØUT!! [STD]",
-    "title_kana": "",
-    "version": "CiRCLE PLUS",
-    "chart_type": "STD"
   },
   {
     "artist": "DIVELA feat.ラングドシャ",
@@ -33754,28 +33493,15 @@
     "title": "KNØCK ØUT!! [DX]",
     "title_kana": "",
     "version": "CiRCLE PLUS",
-    "lev_bas": "4",
-    "lev_adv": "7.6",
-    "lev_exp": "11",
+    "alias": [
+      "KNØCK ØUT!!",
+      "KNOCK OUT!!"
+    ],
+    "lev_bas": "4.0",
+    "lev_adv": "7.8",
+    "lev_exp": "11.2",
     "lev_mas": "13.8",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "tokiwa×むﾄ",
-    "catcode": "maimai",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/26956ef2313d5d611a5b3dca4c78ee092645ca35aea1178bf9d75c0796ccef4a.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "Aides [STD]",
-    "title_kana": "",
-    "version": "CiRCLE PLUS",
-    "chart_type": "STD"
   },
   {
     "artist": "tokiwa×むﾄ",
@@ -33786,28 +33512,14 @@
     "title": "Aides [DX]",
     "title_kana": "",
     "version": "CiRCLE PLUS",
-    "lev_bas": "4",
-    "lev_adv": "7.6",
-    "lev_exp": "10.6",
+    "alias": [
+      "Aides"
+    ],
+    "lev_bas": "4.0",
+    "lev_adv": "7.8",
+    "lev_exp": "10.8",
     "lev_mas": "13.8",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "7mai",
-    "catcode": "maimai",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/033cdaecf2c99521d67d9464396b349b9a76451eb0f2ad5c8012e9d56aaf95d1.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "Treasure Chest Expedition [STD]",
-    "title_kana": "",
-    "version": "CiRCLE PLUS",
-    "chart_type": "STD"
   },
   {
     "artist": "7mai",
@@ -33818,28 +33530,14 @@
     "title": "Treasure Chest Expedition [DX]",
     "title_kana": "",
     "version": "CiRCLE PLUS",
-    "lev_bas": "5",
-    "lev_adv": "8.6",
-    "lev_exp": "11",
+    "alias": [
+      "Treasure Chest Expedition"
+    ],
+    "lev_bas": "5.0",
+    "lev_adv": "8.7",
+    "lev_exp": "11.5",
     "lev_mas": "13.7",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "Rafutsuri feat.桜あおい",
-    "catcode": "maimai",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/d16e86da63013ae76b1c0e06b499b7a75f00f2e2439ac1b1b670357d98689c8b.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "ソテリア [STD]",
-    "title_kana": "",
-    "version": "CiRCLE PLUS",
-    "chart_type": "STD"
   },
   {
     "artist": "Rafutsuri feat.桜あおい",
@@ -33850,28 +33548,15 @@
     "title": "ソテリア [DX]",
     "title_kana": "",
     "version": "CiRCLE PLUS",
-    "lev_bas": "4",
-    "lev_adv": "8",
-    "lev_exp": "12",
+    "alias": [
+      "soteria",
+      "Soteria"
+    ],
+    "lev_bas": "4.0",
+    "lev_adv": "8.2",
+    "lev_exp": "12.0",
     "lev_mas": "14.1",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "PRASTIK DANCEFLOOR",
-    "catcode": "オンゲキ＆CHUNITHM",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/2bdedf907d00f9e47700ea07f6363581429813be65d92fb48f67022c80b73bd3.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "TECHNOPOLIS 2085 [STD]",
-    "title_kana": "",
-    "version": "CiRCLE PLUS",
-    "chart_type": "STD"
   },
   {
     "artist": "PRASTIK DANCEFLOOR",
@@ -33882,11 +33567,13 @@
     "title": "TECHNOPOLIS 2085 [DX]",
     "title_kana": "",
     "version": "CiRCLE PLUS",
-    "lev_bas": "4",
-    "lev_adv": "6",
-    "lev_exp": "10.6",
+    "alias": [
+      "TECHNOPOLIS 2085"
+    ],
+    "lev_bas": "4.0",
+    "lev_adv": "6.5",
+    "lev_exp": "10.9",
     "lev_mas": "13.8",
-    "lev_remas": "",
     "chart_type": "DX"
   },
   {
@@ -33926,48 +33613,18 @@
     "catcode": "POPS＆アニメ",
     "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/cdc66217ac97b6c3c8aa38f9df5f448dbe54e2176f28b645a232bfc7de1b8ab1.png",
     "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "無敵的ハピネス！(SOS団5人Ver.) [STD]",
-    "title_kana": "",
-    "version": "CiRCLE PLUS",
-    "chart_type": "STD"
-  },
-  {
-    "artist": "涼宮ハルヒ(CV.平野綾),長門有希(CV.茅原実里),朝比奈みくる(CV.後藤邑子)、キョン(CV.杉田智和)、古泉一樹(CV.小野大輔)",
-    "catcode": "POPS＆アニメ",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/cdc66217ac97b6c3c8aa38f9df5f448dbe54e2176f28b645a232bfc7de1b8ab1.png",
-    "release": "000000",
     "sort": "",
     "title": "無敵的ハピネス！(SOS団5人Ver.) [DX]",
     "title_kana": "",
     "version": "CiRCLE PLUS",
-    "lev_bas": "3",
-    "lev_adv": "7",
-    "lev_exp": "10",
+    "alias": [
+      "CV.平野綾"
+    ],
+    "lev_bas": "3.0",
+    "lev_adv": "7.5",
+    "lev_exp": "10.5",
     "lev_mas": "13.2",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "涼宮ハルヒ(CV.平野綾)",
-    "catcode": "POPS＆アニメ",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/70fe5a6dfad42583c289f9b5b4e0a89ae752642f22e845bd7cae176f184c7b71.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "Chasing destiny [STD]",
-    "title_kana": "",
-    "version": "CiRCLE PLUS",
-    "chart_type": "STD"
   },
   {
     "artist": "涼宮ハルヒ(CV.平野綾)",
@@ -33978,28 +33635,14 @@
     "title": "Chasing destiny [DX]",
     "title_kana": "",
     "version": "CiRCLE PLUS",
-    "lev_bas": "4",
-    "lev_adv": "7.6",
-    "lev_exp": "10.6",
+    "alias": [
+      "CV.平野綾"
+    ],
+    "lev_bas": "4.0",
+    "lev_adv": "7.7",
+    "lev_exp": "10.8",
     "lev_mas": "13.7",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "涼宮ハルヒ(CV.平野綾)",
-    "catcode": "POPS＆アニメ",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/7fef6b477579ca509d9d249e194f4070759a070aa4c8f4beba740af69f863134.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "Colorful Starting Line [STD]",
-    "title_kana": "",
-    "version": "CiRCLE PLUS",
-    "chart_type": "STD"
   },
   {
     "artist": "涼宮ハルヒ(CV.平野綾)",
@@ -34010,28 +33653,14 @@
     "title": "Colorful Starting Line [DX]",
     "title_kana": "",
     "version": "CiRCLE PLUS",
-    "lev_bas": "3",
-    "lev_adv": "7",
-    "lev_exp": "10",
-    "lev_mas": "13",
-    "lev_remas": "",
+    "alias": [
+      "CV.平野綾"
+    ],
+    "lev_bas": "3.0",
+    "lev_adv": "7.5",
+    "lev_exp": "10.0",
+    "lev_mas": "13.0",
     "chart_type": "DX"
-  },
-  {
-    "artist": "AiScReam[黒澤ルビィ(CV.降幡 愛)、上原歩夢(CV.大西亜玖璃)、若菜四季(CV.大熊和奏)]",
-    "catcode": "POPS＆アニメ",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/3a3a668d1965015a49425df32c35d6af6c294e62b2faf620e5e35d60651bf8a6.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "愛♡スクリ～ム！ [STD]",
-    "title_kana": "",
-    "version": "CiRCLE PLUS",
-    "chart_type": "STD"
   },
   {
     "artist": "AiScReam[黒澤ルビィ(CV.降幡 愛)、上原歩夢(CV.大西亜玖璃)、若菜四季(CV.大熊和奏)]",
@@ -34042,28 +33671,15 @@
     "title": "愛♡スクリ～ム！ [DX]",
     "title_kana": "",
     "version": "CiRCLE PLUS",
-    "lev_bas": "2",
-    "lev_adv": "6",
-    "lev_exp": "9",
+    "alias": [
+      "CV.降幡 愛"
+    ],
+    "lev_bas": "2.0",
+    "lev_adv": "6.2",
+    "lev_exp": "9.5",
     "lev_mas": "11.5",
     "lev_remas": "13.4",
     "chart_type": "DX"
-  },
-  {
-    "artist": "DECO*27",
-    "catcode": "niconico＆ボーカロイド",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/17f661d3477792b7bd974247e9df4afa467bbebad62597603f11e49407962c6c.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "テレパシ [STD]",
-    "title_kana": "",
-    "version": "CiRCLE PLUS",
-    "chart_type": "STD"
   },
   {
     "artist": "DECO*27",
@@ -34074,28 +33690,17 @@
     "title": "テレパシ [DX]",
     "title_kana": "",
     "version": "CiRCLE PLUS",
-    "lev_bas": "4",
-    "lev_adv": "7.6",
-    "lev_exp": "10.6",
+    "alias": [
+      "terepashi",
+      "telepathy",
+      "Telepath",
+      "Telepathy"
+    ],
+    "lev_bas": "4.0",
+    "lev_adv": "7.8",
+    "lev_exp": "10.7",
     "lev_mas": "13.3",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "雨良 Amala",
-    "catcode": "niconico＆ボーカロイド",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/559635fe21755d15de310b1331aab30faefe539633786af1e1f3023d164d6450.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "ダイダイダイダイダイキライ [STD]",
-    "title_kana": "",
-    "version": "CiRCLE PLUS",
-    "chart_type": "STD"
   },
   {
     "artist": "雨良 Amala",
@@ -34106,28 +33711,17 @@
     "title": "ダイダイダイダイダイキライ [DX]",
     "title_kana": "",
     "version": "CiRCLE PLUS",
-    "lev_bas": "4",
-    "lev_adv": "6",
-    "lev_exp": "10",
+    "alias": [
+      "daidaidaidaidaikirai",
+      "Dai Dai Dai Dai Dai Kirai",
+      "I Really Really Really Really Hate You"
+    ],
+    "lev_bas": "4.0",
+    "lev_adv": "6.5",
+    "lev_exp": "10.5",
     "lev_mas": "11.8",
     "lev_remas": "13.6",
     "chart_type": "DX"
-  },
-  {
-    "artist": "ナユタン星人",
-    "catcode": "niconico＆ボーカロイド",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/be165e30ff7f13e1dc9ea878528dc540afc936786bde01a7b6a69141428857a1.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "オペラ！スペースオペラ！ [STD]",
-    "title_kana": "",
-    "version": "CiRCLE PLUS",
-    "chart_type": "STD"
   },
   {
     "artist": "ナユタン星人",
@@ -34138,28 +33732,17 @@
     "title": "オペラ！スペースオペラ！ [DX]",
     "title_kana": "",
     "version": "CiRCLE PLUS",
-    "lev_bas": "4",
-    "lev_adv": "7",
+    "alias": [
+      "opera!supesuopera!",
+      "Opera! Space opera!",
+      "Opera! Space Opera!",
+      "Space Opera"
+    ],
+    "lev_bas": "4.0",
+    "lev_adv": "7.0",
     "lev_exp": "10.6",
     "lev_mas": "13.3",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "ピノキオピー",
-    "catcode": "niconico＆ボーカロイド",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/5f9d79b2b96bf559a5c8ccc6b410f761a73d89e9900c6165c2d1e02d8c023497.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "T氏の話を信じるな [STD]",
-    "title_kana": "",
-    "version": "CiRCLE PLUS",
-    "chart_type": "STD"
   },
   {
     "artist": "ピノキオピー",
@@ -34170,28 +33753,17 @@
     "title": "T氏の話を信じるな [DX]",
     "title_kana": "",
     "version": "CiRCLE PLUS",
-    "lev_bas": "3",
-    "lev_adv": "6",
-    "lev_exp": "9.6",
+    "alias": [
+      "Tshinohanashioshinjiruna",
+      "Don't believe Mr. T's story.",
+      "Don't Believe Mr. T",
+      "Don't Believe What Mr. T Says"
+    ],
+    "lev_bas": "3.0",
+    "lev_adv": "6.5",
+    "lev_exp": "9.8",
     "lev_mas": "13.2",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "ビートまりお×まろん",
-    "catcode": "東方Project",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/2b760bfa884190e9a991fac9e626d4ad4f882f33624421a7f7a2e7397bf1dcdf.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "超ナイト・オブ・ナイツ [STD]",
-    "title_kana": "",
-    "version": "CiRCLE PLUS",
-    "chart_type": "STD"
   },
   {
     "artist": "ビートまりお×まろん",
@@ -34202,28 +33774,17 @@
     "title": "超ナイト・オブ・ナイツ [DX]",
     "title_kana": "",
     "version": "CiRCLE PLUS",
-    "lev_bas": "4",
-    "lev_adv": "7.6",
-    "lev_exp": "11.6",
-    "lev_mas": "14",
-    "lev_remas": "",
+    "alias": [
+      "chonaito･obu･naitsu",
+      "Super Night of Nights",
+      "Night of Nights",
+      "Chou Night of Nights"
+    ],
+    "lev_bas": "4.0",
+    "lev_adv": "7.7",
+    "lev_exp": "11.8",
+    "lev_mas": "14.0",
     "chart_type": "DX"
-  },
-  {
-    "artist": "魔界都市ニイガタ（黄泉路テヂーモ×dawn-system×かゆき）",
-    "catcode": "ゲーム＆バラエティ",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/7e896309f893871a45d3e9e02633f14802e4d173170fd3be4f54be66543c11ec.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "浮世絵横丁 [STD]",
-    "title_kana": "",
-    "version": "CiRCLE PLUS",
-    "chart_type": "STD"
   },
   {
     "artist": "魔界都市ニイガタ（黄泉路テヂーモ×dawn-system×かゆき）",
@@ -34234,28 +33795,18 @@
     "title": "浮世絵横丁 [DX]",
     "title_kana": "",
     "version": "CiRCLE PLUS",
-    "lev_bas": "4",
-    "lev_adv": "7",
-    "lev_exp": "11",
+    "alias": [
+      "ukiyoeyokocho",
+      "Ukiyo-e Yokocho",
+      "Ukiyoe Yokocho",
+      "Ukiyo-e Alley",
+      "Ukiyoe Alley"
+    ],
+    "lev_bas": "4.0",
+    "lev_adv": "7.5",
+    "lev_exp": "11.4",
     "lev_mas": "13.9",
-    "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "DJ'TEKINA//SOMETHING a.k.a ゆよゆっぺ",
-    "catcode": "ゲーム＆バラエティ",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/1a4741add589b6738cd70303ffb2c25227ddc8fa4dc92f8248c0bea87a4e0dd2.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "AiAe [STD]",
-    "title_kana": "",
-    "version": "CiRCLE PLUS",
-    "chart_type": "STD"
   },
   {
     "artist": "DJ'TEKINA//SOMETHING a.k.a ゆよゆっぺ",
@@ -34266,11 +33817,13 @@
     "title": "AiAe [DX]",
     "title_kana": "",
     "version": "CiRCLE PLUS",
-    "lev_bas": "5",
-    "lev_adv": "8",
+    "alias": [
+      "AiAe"
+    ],
+    "lev_bas": "5.0",
+    "lev_adv": "8.0",
     "lev_exp": "12.4",
     "lev_mas": "14.4",
-    "lev_remas": "",
     "chart_type": "DX"
   },
   {
@@ -34438,31 +33991,17 @@
     "catcode": "オンゲキ＆CHUNITHM",
     "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/dafe0e9cc3304c23d55826820480ee0957745dacd1ad0cda05d4a9efc02b73a4.png",
     "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "キミは“見ていたね”？ [STD]",
-    "title_kana": "",
-    "version": "CiRCLE PLUS",
-    "chart_type": "STD"
-  },
-  {
-    "artist": "曲：篠崎あやと、橘亮祐／歌：結城 莉玖(CV：朝日奈 丸佳)、東雲 つむぎ(CV：和泉 風花)",
-    "catcode": "オンゲキ＆CHUNITHM",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/dafe0e9cc3304c23d55826820480ee0957745dacd1ad0cda05d4a9efc02b73a4.png",
-    "release": "000000",
     "sort": "",
     "title": "キミは“見ていたね”？ [DX]",
     "title_kana": "",
     "version": "CiRCLE PLUS",
-    "lev_bas": "3",
-    "lev_adv": "6",
-    "lev_exp": "10",
+    "alias": [
+      "CV：朝日奈 丸佳"
+    ],
+    "lev_bas": "3.0",
+    "lev_adv": "6.7",
+    "lev_exp": "10.0",
     "lev_mas": "13.1",
-    "lev_remas": "",
     "chart_type": "DX"
   },
   {
@@ -34624,22 +34163,6 @@
     "lev_mas": "",
     "lev_remas": "",
     "chart_type": "DX"
-  },
-  {
-    "artist": "MURASAKI feat.かたたかんな",
-    "catcode": "ゲーム＆バラエティ",
-    "image_url": "https://dp4p6x0xfi5o9.cloudfront.net/maimai/img/cover/17681fc49959bbef9fed523051eddc7dd3a1af149f6ccf9dcd8a91ad87547a88.png",
-    "release": "000000",
-    "lev_bas": "",
-    "lev_adv": "",
-    "lev_exp": "",
-    "lev_mas": "",
-    "lev_remas": "",
-    "sort": "",
-    "title": "奇々解体 [STD]",
-    "title_kana": "",
-    "version": "CiRCLE PLUS",
-    "chart_type": "STD"
   },
   {
     "artist": "MURASAKI feat.かたたかんな",
@@ -34650,11 +34173,15 @@
     "title": "奇々解体 [DX]",
     "title_kana": "",
     "version": "CiRCLE PLUS",
-    "lev_bas": "3",
-    "lev_adv": "6",
-    "lev_exp": "9.6",
+    "alias": [
+      "ki々kaitai",
+      "strange demolition",
+      "Kikikaitai"
+    ],
+    "lev_bas": "3.0",
+    "lev_adv": "6.5",
+    "lev_exp": "9.7",
     "lev_mas": "13.2",
-    "lev_remas": "",
     "chart_type": "DX"
   },
   {
@@ -34751,6 +34278,57 @@
     "lev_exp": "12.8",
     "lev_mas": "14.3",
     "lev_remas": "",
+    "chart_type": "DX"
+  },
+  {
+    "title": "Operation☆DOTABATA! [DX]",
+    "version": "CiRCLE PLUS",
+    "alias": [
+      "Operation☆DOTABATA!"
+    ],
+    "artist": "",
+    "catcode": "",
+    "release": "000000",
+    "sort": "",
+    "title_kana": "",
+    "lev_bas": "3.0",
+    "lev_adv": "6.2",
+    "lev_exp": "11.0",
+    "lev_mas": "13.4",
+    "chart_type": "DX"
+  },
+  {
+    "title": "RE Aoharu [DX]",
+    "version": "CiRCLE PLUS",
+    "alias": [
+      "RE Aoharu"
+    ],
+    "artist": "",
+    "catcode": "",
+    "release": "000000",
+    "sort": "",
+    "title_kana": "",
+    "lev_bas": "3.0",
+    "lev_adv": "7.0",
+    "lev_exp": "10.7",
+    "lev_mas": "13.7",
+    "chart_type": "DX"
+  },
+  {
+    "title": "Usagi Flap [DX]",
+    "version": "CiRCLE PLUS",
+    "alias": [
+      "Usagi Flap"
+    ],
+    "artist": "",
+    "catcode": "",
+    "release": "000000",
+    "sort": "",
+    "title_kana": "",
+    "lev_bas": "3.0",
+    "lev_adv": "6.5",
+    "lev_exp": "10.5",
+    "lev_mas": "13.2",
     "chart_type": "DX"
   }
 ]
